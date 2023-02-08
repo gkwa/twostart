@@ -3,6 +3,6 @@
 
 * <2023-02-07 Tue>
 
-cdi installer: 30m
+bridge installer: 30m
 
 spectra installer: 40m
