@@ -5,6 +5,8 @@
 
 spectra installer: 15m
 
+manage pushver: 15m
+
 * <2023-02-07 Tue>
 
 bridge installer: 30m
