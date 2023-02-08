@@ -1,2 +1,6 @@
 # -*- mode: org -*-
 #+STARTUP:   showeverything
+
+* <2023-02-07 Tue>
+
+spectra installer: 40m
