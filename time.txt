@@ -1,9 +1,13 @@
 # -*- mode: org -*-
 #+STARTUP:   showeverything
 
+* <2023-02-10 Fri>
+
+spectra installer: 2h
+
 * <2023-02-09 Thu>
 
-spectra installer: 1h
+spectra installer: 2h
 
 * <2023-02-08 Wed>
 
