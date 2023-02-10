@@ -5,6 +5,10 @@
 
 spectra installer: 2h
 
+show and tell installer flow to alex/support: 1h
+
+fix liveeu: 1h
+
 * <2023-02-09 Thu>
 
 spectra installer: 2h
