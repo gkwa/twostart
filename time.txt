@@ -1,6 +1,10 @@
 # -*- mode: org -*-
 #+STARTUP:   showeverything
 
+* <2023-02-14 Tue>
+
+spectra installer: 15m
+
 * <2023-02-13 Mon>
 
 document spectra installer for support: 1h
