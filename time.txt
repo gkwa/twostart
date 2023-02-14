@@ -5,9 +5,13 @@
 
 spectra installer: 15m
 
+invoice #2 2023
+
 * <2023-02-13 Mon>
 
 document spectra installer for support: 1h
+
+invoice #2 2023
 
 * <2023-02-10 Fri>
 
@@ -17,9 +21,13 @@ show and tell installer flow to alex/support: 1h
 
 fix liveeu: 1h
 
+invoice #2 2023
+
 * <2023-02-09 Thu>
 
 spectra installer: 2h
+
+invoice #2 2023
 
 * <2023-02-08 Wed>
 
@@ -27,8 +35,12 @@ spectra installer: 15m
 
 manage pushover: 15m
 
+invoice #2 2023
+
 * <2023-02-07 Tue>
 
 bridge installer: 30m
 
 spectra installer: 40m
+
+invoice #2 2023
