@@ -5,6 +5,8 @@
 
 sectigo nonsense: 1.25hr
 
+spectra installer: 15m
+
 * <2023-02-14 Tue>
 
 spectra installer: 15m
