@@ -1,51 +1,58 @@
-# -*- mode: org -*-
-#+STARTUP:   showeverything
-
-* <2023-02-15 Wed>
-
-sectigo nonsense: 3.5hr
-
-spectra installer: 15m
-
-* <2023-02-14 Tue>
-
-spectra installer: 15m
-
-invoice #2: 2023
-* <2023-02-13 Mon>
-
-document spectra installer for support: 1h
-
-invoice #2: 2023
-
-* <2023-02-10 Fri>
-
-spectra installer: 2h
-
-show and tell installer flow to alex/support: 1h
-
-fix liveeu: 1h
-
-invoice #2: 2023
-
-* <2023-02-09 Thu>
-
-spectra installer: 2h
-
-invoice #2: 2023
-
-* <2023-02-08 Wed>
-
-spectra installer: 15m
-
-manage pushover: 15m
-
-invoice #2: 2023
-
-* <2023-02-07 Tue>
-
-bridge installer: 30m
-
-spectra installer: 40m
-
-invoice #2: 2023
+date: 2023-02-15 Wed
+tasks:
+- task: sectigo nonsense
+  task time: 3.5hr
+- task: spectra installer
+  task time: 15m
+invoice: 2
+invoice year: 2023
+---
+date: 2023-02-14 Tue
+tasks:
+- task: spectra installer
+  task time: 15m
+invoice: 2
+invoice year: 2023
+---
+date: 2023-02-13 Mon
+tasks:
+- task: document spectra installer for support
+  task time: 1h
+invoice: 2
+invoice year: 2023
+---
+date: 2023-02-10 Fri
+tasks:
+- task: spectra installer
+  task time: 2h
+- task: show and tell installer flow to alex/support
+  task time: 1h
+- task: fix liveeu
+  task time: 1h
+invoice: 2
+invoice year: 2023
+---
+date: 2023-02-09 Thu
+tasks:
+- task: spectra installer
+  task time: 2h
+invoice: 2
+invoice year: 2023
+---
+date: 2023-02-08 Wed
+tasks:
+- task: spectra installer
+  task time: 15m
+- task: manaage pushover
+  task time: 15m
+invoice: 2
+invoice year: 2023
+---
+date: 2023-02-07 Tue
+tasks:
+- task: bridge installer
+  task time: 30m
+- task: spectra installer
+  task time: 40
+invoice: 2
+invoice year: 2023
