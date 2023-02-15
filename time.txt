@@ -2,7 +2,7 @@ entries:
 - date: 2023-02-15 Wed
   tasks:
   - task: sectigo nonsense
-    task time: 3.5hr
+    task time: 3.5h
   - task: spectra installer
     task time: 15m
   invoice: 2
