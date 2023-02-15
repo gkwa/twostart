@@ -1,12 +1,15 @@
 # -*- mode: org -*-
 #+STARTUP:   showeverything
 
+* <2023-02-15 Wed>
+
+sectigo nonsense: 1.25hr
+
 * <2023-02-14 Tue>
 
 spectra installer: 15m
 
 invoice #2: 2023
-
 * <2023-02-13 Mon>
 
 document spectra installer for support: 1h
