@@ -4,7 +4,7 @@ entries:
   - task: sectigo nonsense
     task time: 3.5h
   - task: spectra installer
-    task time: 15m
+    task time: 45m
   invoice: 2
   invoice year: 2023
 - date: 2023-02-14 Tue
