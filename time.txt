@@ -1,4 +1,4 @@
-entries:
+days:
 - date: 2023-02-15 Wed
   tasks:
   - task: sectigo nonsense
@@ -39,7 +39,7 @@ entries:
   tasks:
   - task: spectra installer
     task_time: 15m
-  - task: manaage pushover
+  - task: manage pushover
     task_time: 15m
   invoice: 2
   invoice_year: 2023
@@ -48,6 +48,6 @@ entries:
   - task: bridge installer
     task_time: 30m
   - task: spectra installer
-    task_time: 40
+    task_time: 40m
   invoice: 2
   invoice_year: 2023
