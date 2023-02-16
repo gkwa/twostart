@@ -1,13 +1,13 @@
 days:
-- date: 2023-02-16 Thu
+- date: "2023-02-16"
   tasks:
   - task: sectigo code sign certs
     task_time: 20m
   - task: bridge installer
     task_time: 45m
-  invoice: 2
+  invoice: 3
   invoice_year: 2023
-- date: 2023-02-15 Wed
+- date: "2023-02-15"
   tasks:
   - task: sectigo code sign certs
     task_time: 3.5h
@@ -15,19 +15,19 @@ days:
     task_time: 45m
   invoice: 2
   invoice_year: 2023
-- date: 2023-02-14 Tue
+- date: "2023-02-14"
   tasks:
   - task: spectra installer
     task_time: 15m
   invoice: 2
   invoice_year: 2023
-- date: 2023-02-13 Mon
+- date: "2023-02-13"
   tasks:
   - task: document spectra installer for support
     task_time: 1h
   invoice: 2
   invoice_year: 2023
-- date: 2023-02-10 Fri
+- date: "2023-02-10"
   tasks:
   - task: spectra installer
     task_time: 2h
@@ -37,13 +37,13 @@ days:
     task_time: 1h
   invoice: 2
   invoice_year: 2023
-- date: 2023-02-09 Thu
+- date: "2023-02-09"
   tasks:
   - task: spectra installer
     task_time: 2h
   invoice: 2
   invoice_year: 2023
-- date: 2023-02-08 Wed
+- date: "2023-02-08"
   tasks:
   - task: spectra installer
     task_time: 15m
@@ -51,11 +51,29 @@ days:
     task_time: 15m
   invoice: 2
   invoice_year: 2023
-- date: 2023-02-07 Tue
+- date: "2023-02-07"
   tasks:
   - task: bridge installer
     task_time: 30m
   - task: spectra installer
     task_time: 40m
+  invoice: 2
+  invoice_year: 2023
+- date: "2023-02-06"
+  tasks:
+  - task: bridge installer
+    task_time: 8h
+  invoice: 2
+  invoice_year: 2023
+- date: "2023-02-05"
+  tasks:
+  - task: bridge installer
+    task_time: 8h
+  invoice: 2
+  invoice_year: 2023
+- date: "2023-02-03"
+  tasks:
+  - task: bridge installer
+    task_time: 6h
   invoice: 2
   invoice_year: 2023
