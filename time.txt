@@ -1,7 +1,7 @@
 days:
 - date: 2023-02-15 Wed
   tasks:
-  - task: sectigo nonsense
+  - task: sectigo code sign certs
     task_time: 3.5h
   - task: spectra installer
     task_time: 45m
