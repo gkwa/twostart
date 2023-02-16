@@ -1,4 +1,12 @@
 days:
+- date: 2023-02-16 Thu
+  tasks:
+  - task: sectigo code sign certs
+    task_time: 20m
+  - task: bridge installer
+    task_time: 30m
+  invoice: 2
+  invoice_year: 2023
 - date: 2023-02-15 Wed
   tasks:
   - task: sectigo code sign certs
