@@ -8,7 +8,6 @@ days:
   - task: iris installer
     task_time: 15m
   invoice: 3
-  invoice_year: 2023
 - date: "2023-02-15"
   tasks:
   - task: sectigo code sign certs
@@ -16,19 +15,16 @@ days:
   - task: spectra installer
     task_time: 45m
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-14"
   tasks:
   - task: spectra installer
     task_time: 15m
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-13"
   tasks:
   - task: document spectra installer for support
     task_time: 1h
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-10"
   tasks:
   - task: spectra installer
@@ -38,13 +34,11 @@ days:
   - task: fix liveeu
     task_time: 1h
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-09"
   tasks:
   - task: spectra installer
     task_time: 2h
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-08"
   tasks:
   - task: spectra installer
@@ -52,7 +46,6 @@ days:
   - task: manage pushover
     task_time: 15m
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-07"
   tasks:
   - task: bridge installer
@@ -60,22 +53,18 @@ days:
   - task: spectra installer
     task_time: 40m
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-06"
   tasks:
   - task: bridge installer
     task_time: 8h
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-05"
   tasks:
   - task: bridge installer
     task_time: 8h
   invoice: 2
-  invoice_year: 2023
 - date: "2023-02-03"
   tasks:
   - task: bridge installer
     task_time: 6h
   invoice: 2
-  invoice_year: 2023
