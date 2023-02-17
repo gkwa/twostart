@@ -6,6 +6,11 @@ invoices:
   submitted_on: "2023-02-16"
   paid_on: null
 days:
+- date: "2023-02-17"
+  tasks:
+  - task: sectigo code sign certs
+    task_time: 40m
+  invoice: 3
 - date: "2023-02-16"
   tasks:
   - task: sectigo code sign certs
