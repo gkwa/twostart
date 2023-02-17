@@ -10,6 +10,8 @@ days:
   tasks:
   - task: sectigo code sign certs
     task_time: 40m
+  - task: aws marketplace display updates
+    task_time: 10m
   invoice: 3
 - date: "2023-02-16"
   tasks:
