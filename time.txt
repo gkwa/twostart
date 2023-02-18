@@ -8,7 +8,7 @@ invoices:
 days:
 - date: "2023-02-18"
   tasks:
-  - task: spectra activation issue
+  - task: spectra activation issue https://basecamp.com/2498935/projects/17265419/todos/475218671
     task_time: 10m
   invoice: 3
 - date: "2023-02-17"
