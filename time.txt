@@ -92,3 +92,8 @@ days:
   - task: bridge installer
     task_time: 6h
   invoice: 2
+- date: "2023-02-02"
+  tasks:
+  - task: retainer
+    task_time: 20h
+  invoice: 1
