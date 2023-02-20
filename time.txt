@@ -17,10 +17,8 @@ days:
     task_time: 15m
   - task: spectra installer for win
     minutia: |
-      pipeline fails:
-      https://gitlab.com/streambox/removesalt/-/jobs/3799782254#L1338
-      checked rdp, retry when alex isn't on that host
-      problem turned out to be single host streaming out 90mbps
+      spectra installer pipline failed, alex resolved by disabling
+      host streaming out 90mbps
     task_time: 25m
   invoice: 3
 - date: "2023-02-19"
@@ -108,7 +106,8 @@ days:
   tasks:
   - task: spectra installer for win
     task_time: 15m
-  - task: manage pushover
+  - task: infrastructure
+    minutia: manage pushover
     task_time: 15m
   invoice: 2
 - date: "2023-02-07"
