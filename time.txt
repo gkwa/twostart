@@ -17,7 +17,7 @@ days:
       https://gitlab.com/streambox/removesalt/-/jobs/3799782254#L1338
       checked rdp, retry when alex isn't on that host
       todo: reboot host later today
-    task_time: 10m
+    task_time: 25m
   invoice: 3
 - date: "2023-02-19"
   tasks:
