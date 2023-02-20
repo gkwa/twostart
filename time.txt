@@ -11,6 +11,10 @@ invoices:
 days:
 - date: "2023-02-20"
   tasks:
+  - task: liveserver
+    minutia: |
+      check live server certs
+    task_time: 15m
   - task: spectra installer for win
     minutia: |
       pipeline fails:
@@ -91,7 +95,8 @@ days:
     minutia: |
       show and tell installer flow to alex/support
     task_time: 1h
-  - task: fix liveeu
+  - task: liveserver
+    minutia: fix liveeu
     task_time: 1h
   invoice: 2
 - date: "2023-02-09"
