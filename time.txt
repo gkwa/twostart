@@ -9,6 +9,16 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-02-20"
+  tasks:
+  - task: spectra installer
+    minutia: |
+      pipeline fails:
+      https://gitlab.com/streambox/removesalt/-/jobs/3799782254#L1338
+      checked rdp, retry when alex isn't on that host
+      todo: reboot host later today
+    task_time: 10m
+  invoice: 3
 - date: "2023-02-19"
   tasks:
   - task: aws marketplace display updates
