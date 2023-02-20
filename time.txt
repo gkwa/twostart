@@ -11,7 +11,7 @@ invoices:
 days:
 - date: "2023-02-20"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     minutia: |
       pipeline fails:
       https://gitlab.com/streambox/removesalt/-/jobs/3799782254#L1338
@@ -21,23 +21,28 @@ days:
   invoice: 3
 - date: "2023-02-19"
   tasks:
-  - task: aws marketplace display updates
+  - task: streambox bridge for aws
+    minutia: |
+      aws marketplace display updates
     task_time: 20m
   invoice: 3
 - date: "2023-02-18"
   tasks:
-  - task: spectra activation issue
+  - task: spectra installer for win
     minutia: |
+      spectra activation issue
       https://basecamp.com/2498935/projects/17265419/todos/475218671
     task_time: 10m
   invoice: 3
 - date: "2023-02-17"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     minutia: |
       sectigo code sign certs
     task_time: 40m
-  - task: aws marketplace display updates
+  - task: streambox bridge for aws
+    minutia: |
+      aws marketplace display updates
     task_time: 10m
   - task: spectra activation issue
     minutia: |
@@ -46,41 +51,43 @@ days:
   invoice: 3
 - date: "2023-02-16"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     minutia: |
       sectigo code sign certs
     task_time: 20m
-  - task: bridge installer
+  - task: streambox bridge for aws
+    minutia: |
+      bridge installer
     task_time: 45m
-  - task: iris installer
+  - task: iris installer for win
     task_time: 15m
   invoice: 3
 - date: "2023-02-15"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     minutia: |
       sectigo code sign certs
     task_time: 3.5h
-  - task: spectra installer
+  - task: spectra installer for win
     task_time: 45m
   invoice: 2
 - date: "2023-02-14"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     task_time: 15m
   invoice: 2
 - date: "2023-02-13"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     minutia: |
       document spectra installer for support
     task_time: 1h
   invoice: 2
 - date: "2023-02-10"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     task_time: 2h
-  - task: spectra installer
+  - task: spectra installer for win
     minutia: |
       show and tell installer flow to alex/support
     task_time: 1h
@@ -89,36 +96,44 @@ days:
   invoice: 2
 - date: "2023-02-09"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     task_time: 2h
   invoice: 2
 - date: "2023-02-08"
   tasks:
-  - task: spectra installer
+  - task: spectra installer for win
     task_time: 15m
   - task: manage pushover
     task_time: 15m
   invoice: 2
 - date: "2023-02-07"
   tasks:
-  - task: bridge installer
+  - task: streambox bridge for aws
+    minutia: |
+      bridge installer
     task_time: 30m
-  - task: spectra installer
+  - task: spectra installer for win
     task_time: 40m
   invoice: 2
 - date: "2023-02-06"
   tasks:
-  - task: bridge installer
+  - task: streambox bridge for aws
+    minutia: |
+      bridge installer
     task_time: 8h
   invoice: 2
 - date: "2023-02-05"
   tasks:
-  - task: bridge installer
+  - task: streambox bridge for aws
+    minutia: |
+      bridge installer
     task_time: 8h
   invoice: 2
 - date: "2023-02-03"
   tasks:
-  - task: bridge installer
+  - task: streambox bridge for aws
+    minutia: |
+      bridge installer
     task_time: 6h
   invoice: 2
 - date: "2023-02-02"
