@@ -18,7 +18,7 @@ days:
   - task: spectra installer for win
     minutia: |
       spectra installer pipline failed, alex resolved by disabling
-      host streaming out 90mbps
+      host streaming out of office @90mbps
     task_time: 25m
   invoice: 3
 - date: "2023-02-19"
