@@ -16,7 +16,7 @@ days:
       pipeline fails:
       https://gitlab.com/streambox/removesalt/-/jobs/3799782254#L1338
       checked rdp, retry when alex isn't on that host
-      todo: reboot host later today
+      problem turned out to be single host streaming out 90mbps
     task_time: 25m
   invoice: 3
 - date: "2023-02-19"
@@ -33,7 +33,9 @@ days:
   invoice: 3
 - date: "2023-02-17"
   tasks:
-  - task: sectigo code sign certs
+  - task: spectra installer
+    minutia: |
+      sectigo code sign certs
     task_time: 40m
   - task: aws marketplace display updates
     task_time: 10m
@@ -44,7 +46,9 @@ days:
   invoice: 3
 - date: "2023-02-16"
   tasks:
-  - task: sectigo code sign certs
+  - task: spectra installer
+    minutia: |
+      sectigo code sign certs
     task_time: 20m
   - task: bridge installer
     task_time: 45m
@@ -53,7 +57,9 @@ days:
   invoice: 3
 - date: "2023-02-15"
   tasks:
-  - task: sectigo code sign certs
+  - task: spectra installer
+    minutia: |
+      sectigo code sign certs
     task_time: 3.5h
   - task: spectra installer
     task_time: 45m
@@ -65,14 +71,18 @@ days:
   invoice: 2
 - date: "2023-02-13"
   tasks:
-  - task: document spectra installer for support
+  - task: spectra installer
+    minutia: |
+      document spectra installer for support
     task_time: 1h
   invoice: 2
 - date: "2023-02-10"
   tasks:
   - task: spectra installer
     task_time: 2h
-  - task: show and tell installer flow to alex/support
+  - task: spectra installer
+    minutia: |
+      show and tell installer flow to alex/support
     task_time: 1h
   - task: fix liveeu
     task_time: 1h
