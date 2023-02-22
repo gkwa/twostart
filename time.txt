@@ -11,10 +11,20 @@ invoices:
 days:
 - date: "2023-02-21"
   tasks:
+  - task: basecamp and email chatter
+    minutia: |
+      https://basecamp.com/2498935/projects/17265419/todos/475218671#comment_886917406
+      and VM Cloud Instance in Tokyo Japan for Imagica
+    task_time: 30m
+  - task: ifb
+    minutia: |
+      https://basecamp.com/2498935/projects/17558492/todos/475222004#comment_886902641
+    task_time: 10m
   - task: windows iris installer
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886821823
-    task_time: 20m
+      and https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886921487
+    task_time: 30m
   invoice: 3
 - date: "2023-02-20"
   tasks:
