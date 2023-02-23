@@ -9,8 +9,27 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-02-23"
+  tasks:
+  - task: infrastructure
+    minutia: |
+      cleanup/reorg credentials file
+    task_time: 10m
+  invoice: 3
 - date: "2023-02-22"
   tasks:
+  - task: light server testing
+    minutia: |
+      discussing plans from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207
+    task_time: 10m
+  - task: liveserver
+    minutia: |
+      find scripts to clean live db for VM Cloud Instance in Tokyo Japan for Imagica
+    task_time: 10m
+  - task: streambox bridge for aws
+    minutia: |
+      email aws-marketplace-seller-ops@amazon.com asking whats up with our request
+    task_time: 15m
   - task: windows spectra installer
     minutia: |
       it'll take some fiddling to maintain forks like this unless I take time to add branching logic to gitlab/appveyor ci
