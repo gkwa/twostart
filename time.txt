@@ -68,7 +68,7 @@ days:
     task_time: 10m
   - task: bridge for aws
     minutia: |
-      Email aws-marketplace-seller-ops@amazon.com asking whats up with our request.
+      Email aws-marketplace-seller-ops@amazon.com asking whats the status with our request.
     task_time: 15m
   - task: windows spectra installer
     minutia: |
