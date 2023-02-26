@@ -13,7 +13,8 @@ days:
   tasks:
   - task: windows spectra installer
     minutia: |
-      Clarify indented spectra.prm (from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023).
+      Clarify indented spectra.prm
+      (from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023).
     task_time: 10m
   invoice: 3
 - date: "2023-02-25"
@@ -21,7 +22,8 @@ days:
   - task: streambox bridge for aws
     minutia: |
       Refactor and test bridge install script in 'regionready' project.
-      Learn whether php7.4 being EOL on amazonlinux is significant (from https://basecamp.com/2498935/projects/17265419/todos/474609671#comment_887370348).
+      Learn whether php7.4 being EOL on amazonlinux is significant
+      (from https://basecamp.com/2498935/projects/17265419/todos/474609671#comment_887370348).
     task_time: 3h
   invoice: 3
 - date: "2023-02-24"
@@ -36,12 +38,12 @@ days:
   tasks:
   - task: streambox bridge for aws
     minutia: |
-      test streambox_multi_starter-0.1.7-1.x86_64.rpm from
-      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887163167
+      Test streambox_multi_starter-0.1.7-1.x86_64.rpm (from
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887163167).
     task_time: 2h
   - task: streambox live
     minutia: |
-      livedb became inaccessible, dunno why, restarted and restarted rep
+      livedb became inaccessible, dunno why, restarted and restarted rep.
     task_time: 25m
   - task: infrastructure
     minutia: |
@@ -52,8 +54,8 @@ days:
   tasks:
   - task: streambox live v2
     minutia: |
-      light server testing
-      discussing plans from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207
+      Light server testing.
+      Discussing plans (from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207).
     task_time: 10m
   - task: streambox live
     minutia: |
@@ -61,20 +63,20 @@ days:
     task_time: 10m
   - task: streambox bridge for aws
     minutia: |
-      email aws-marketplace-seller-ops@amazon.com asking whats up with our request
+      Email aws-marketplace-seller-ops@amazon.com asking whats up with our request.
     task_time: 15m
   - task: windows spectra installer
     minutia: |
-      it'll take some fiddling to maintain forks like this unless I take time to add branching logic to gitlab/appveyor ci
-      https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_886957874
+      It'll take some fiddling to maintain forks like this unless I take time to add branching logic to gitlab/appveyor ci
+      (from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_886957874).
     task_time: 1h
   invoice: 3
 - date: "2023-02-21"
   tasks:
   - task: basecamp and email chatter
     minutia: |
-      https://basecamp.com/2498935/projects/17265419/todos/475218671#comment_886917406
-      and VM Cloud Instance in Tokyo Japan for Imagica
+      https://basecamp.com/2498935/projects/17265419/todos/475218671#comment_886917406.
+      VM Cloud Instance in Tokyo Japan for Imagica.
     task_time: 30m
   - task: ifb
     minutia: |
@@ -95,7 +97,8 @@ days:
   tasks:
   - task: windows iris installer
     minutia: |
-      recheck folders from https://basecamp.com/2498935/projects/17971091/todos/473936484#comment_886774752
+      Recheck folders (from
+      https://basecamp.com/2498935/projects/17971091/todos/473936484#comment_886774752).
     task_time: 5m
   - task: streambox live
     minutia: |
@@ -103,8 +106,8 @@ days:
     task_time: 15m
   - task: windows spectra installer
     minutia: |
-      spectra installer pipline failed, alex resolved by disabling
-      host streaming out of office @90mbps
+      Spectra installer pipline failed, alex resolved by disabling
+      host streaming out of office @90mbps.
     task_time: 25m
   invoice: 3
 - date: "2023-02-19"
@@ -131,8 +134,8 @@ days:
     task_time: 10m
   - task: windows spectra installer
     minutia: |
-      spectra activation issue
-      https://basecamp.com/2498935/projects/17265419/todos/475218671
+      Spectra activation issue (from
+      https://basecamp.com/2498935/projects/17265419/todos/475218671).
     task_time: 2h
   invoice: 3
 - date: "2023-02-16"
@@ -143,7 +146,7 @@ days:
     task_time: 20m
   - task: streambox bridge for aws
     minutia: |
-      bridge installer
+      Bridge installer.
     task_time: 45m
   - task: windows iris installer
     task_time: 15m
@@ -152,7 +155,7 @@ days:
   tasks:
   - task: windows spectra installer
     minutia: |
-      sectigo code sign certs
+      Sectigo code sign certs.
     task_time: 3.5h
   - task: windows spectra installer
     task_time: 45m
@@ -166,7 +169,7 @@ days:
   tasks:
   - task: windows spectra installer
     minutia: |
-      document spectra installer for support
+      Document spectra installer for support.
     task_time: 1h
   invoice: 2
 - date: "2023-02-10"
@@ -175,7 +178,7 @@ days:
     task_time: 2h
   - task: windows spectra installer
     minutia: |
-      show and tell installer flow to alex/support
+      Show and tell installer flow to alex/support.
     task_time: 1h
   - task: streambox live
     minutia: fix liveeu
@@ -198,7 +201,7 @@ days:
   tasks:
   - task: streambox bridge for aws
     minutia: |
-      bridge installer
+      Bridge installer.
     task_time: 30m
   - task: windows spectra installer
     task_time: 40m
@@ -214,14 +217,14 @@ days:
   tasks:
   - task: streambox bridge for aws
     minutia: |
-      bridge installer
+      Bridge installer.
     task_time: 8h
   invoice: 2
 - date: "2023-02-03"
   tasks:
   - task: streambox bridge for aws
     minutia: |
-      bridge installer
+      Bridge installer.
     task_time: 6h
   invoice: 2
 - date: "2023-02-02"
