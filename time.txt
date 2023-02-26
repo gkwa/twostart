@@ -46,7 +46,7 @@ days:
       Test streambox_multi_starter-0.1.7-1.x86_64.rpm from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887163167.
     task_time: 2h
-  - task: streambox live
+  - task: sbx live
     minutia: |
       livedb became inaccessible, dunno why, restarted and restarted rep.
     task_time: 25m
@@ -57,12 +57,12 @@ days:
   invoice: 3
 - date: "2023-02-22"
   tasks:
-  - task: streambox live v2
+  - task: sbx live v2
     minutia: |
       Light server testing.
       Discussing plans  from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207.
     task_time: 10m
-  - task: streambox live
+  - task: sbx live
     minutia: |
       Find scripts to clean live db for VM Cloud Instance in Tokyo Japan for Imagica.
     task_time: 10m
@@ -105,7 +105,7 @@ days:
       Recheck folders (from
       https://basecamp.com/2498935/projects/17971091/todos/473936484#comment_886774752).
     task_time: 5m
-  - task: streambox live
+  - task: sbx live
     minutia: |
       Check live server SSL certs.
     task_time: 15m
@@ -185,7 +185,7 @@ days:
     minutia: |
       Show and tell installer flow to alex/support.
     task_time: 1h
-  - task: streambox live
+  - task: sbx live
     minutia: fix liveeu
     task_time: 1h
   invoice: 2
