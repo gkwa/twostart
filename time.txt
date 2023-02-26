@@ -59,7 +59,7 @@ days:
     task_time: 10m
   - task: streambox live
     minutia: |
-      find scripts to clean live db for VM Cloud Instance in Tokyo Japan for Imagica
+      Find scripts to clean live db for VM Cloud Instance in Tokyo Japan for Imagica.
     task_time: 10m
   - task: streambox bridge for aws
     minutia: |
@@ -90,7 +90,7 @@ days:
   - task: windows spectra installer
     task_time: 10m
   - task: windows mediaplayer installer
-    minutia: release 1.23
+    minutia: release v1.23
     task_time: 10m
   invoice: 3
 - date: "2023-02-20"
@@ -102,7 +102,7 @@ days:
     task_time: 5m
   - task: streambox live
     minutia: |
-      check live server certs
+      Check live server SSL certs.
     task_time: 15m
   - task: windows spectra installer
     minutia: |
@@ -142,7 +142,7 @@ days:
   tasks:
   - task: windows spectra installer
     minutia: |
-      sectigo code sign certs
+      Sectigo code sign certs.
     task_time: 20m
   - task: streambox bridge for aws
     minutia: |
@@ -210,7 +210,7 @@ days:
   tasks:
   - task: streambox bridge for aws
     minutia: |
-      bridge installer
+      Bridge installer.
     task_time: 8h
   invoice: 2
 - date: "2023-02-05"
