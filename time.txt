@@ -43,7 +43,7 @@ days:
   tasks:
   - task: bridge for aws
     minutia: |
-      Test streambox_multi_starter-0.1.7-1.x86_64.rpm from
+      Test new multi-starter v0.1.7-1 from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887163167.
     task_time: 2h
   - task: sbx live
