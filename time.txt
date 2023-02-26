@@ -9,19 +9,26 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-02-26"
+  tasks:
+  - task: windows spectra installer
+    minutia: |
+      Clarify indented spectra.prm (from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023).
+    task_time: 10m
+  invoice: 3
 - date: "2023-02-25"
   tasks:
   - task: streambox bridge for aws
     minutia: |
       Refactor and test bridge install script in 'regionready' project.
-      Learn whether php7.4 being EOL on amazonlinux is significant from https://basecamp.com/2498935/projects/17265419/todos/474609671#comment_887370348.
+      Learn whether php7.4 being EOL on amazonlinux is significant (from https://basecamp.com/2498935/projects/17265419/todos/474609671#comment_887370348).
     task_time: 3h
   invoice: 3
 - date: "2023-02-24"
   tasks:
   - task: streambox bridge for aws
     minutia: |
-      Debug activation https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887267702.
+      Debug activation (from https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887267702).
       Attempt clarify bridge startup after fiddling.
     task_time: 4h
   invoice: 3
