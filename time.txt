@@ -16,7 +16,7 @@ days:
       Discuss AWS Bridge updates from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887373599.
     task_time: 2h
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Clarify indented spectra.prm
       from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023.
@@ -70,7 +70,7 @@ days:
     minutia: |
       Email aws-marketplace-seller-ops@amazon.com asking whats the status with our request.
     task_time: 15m
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       It'll take some fiddling to maintain forks like this unless I take time to add branching logic to gitlab/appveyor ci
       from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_886957874.
@@ -92,7 +92,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886821823
       and https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886921487
     task_time: 30m
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 10m
   - task: windows mediaplayer installer
     minutia: release v1.23
@@ -109,7 +109,7 @@ days:
     minutia: |
       Check live server SSL certs.
     task_time: 15m
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Spectra installer pipline failed, alex resolved by disabling
       host streaming out of office @90mbps.
@@ -124,12 +124,12 @@ days:
   invoice: 3
 - date: "2023-02-18"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 10m
   invoice: 3
 - date: "2023-02-17"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       sectigo code sign certs
     task_time: 40m
@@ -137,7 +137,7 @@ days:
     minutia: |
       aws marketplace display updates
     task_time: 10m
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Spectra activation issue (from
       https://basecamp.com/2498935/projects/17265419/todos/475218671).
@@ -145,7 +145,7 @@ days:
   invoice: 3
 - date: "2023-02-16"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Sectigo code sign certs.
     task_time: 20m
@@ -158,30 +158,30 @@ days:
   invoice: 3
 - date: "2023-02-15"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Sectigo code sign certs.
     task_time: 3h30m
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 45m
   invoice: 2
 - date: "2023-02-14"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 15m
   invoice: 2
 - date: "2023-02-13"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Document spectra installer for support.
     task_time: 1h
   invoice: 2
 - date: "2023-02-10"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 2h
-  - task: windows spectra installer
+  - task: win spectra installer
     minutia: |
       Show and tell installer flow to alex/support.
     task_time: 1h
@@ -191,12 +191,12 @@ days:
   invoice: 2
 - date: "2023-02-09"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 2h
   invoice: 2
 - date: "2023-02-08"
   tasks:
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 15m
   - task: infrastructure
     minutia: manage pushover alerts
@@ -208,7 +208,7 @@ days:
     minutia: |
       Bridge installer.
     task_time: 30m
-  - task: windows spectra installer
+  - task: win spectra installer
     task_time: 40m
   invoice: 2
 - date: "2023-02-06"
