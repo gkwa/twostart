@@ -11,7 +11,7 @@ invoices:
 days:
 - date: "2023-02-26"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Discuss AWS Bridge updates from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887373599.
@@ -24,7 +24,7 @@ days:
   invoice: 3
 - date: "2023-02-25"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Refactor and test bridge install script in 'regionready' project.
       Learn whether php7.4 being EOL on amazonlinux is significant
@@ -33,7 +33,7 @@ days:
   invoice: 3
 - date: "2023-02-24"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Debug activation from https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887267702.
       Attempt clarify bridge startup after fiddling.
@@ -41,7 +41,7 @@ days:
   invoice: 3
 - date: "2023-02-23"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Test new multi-starter v0.1.7-1 from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887163167.
@@ -66,7 +66,7 @@ days:
     minutia: |
       Find scripts to clean live db for VM Cloud Instance in Tokyo Japan for Imagica.
     task_time: 10m
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Email aws-marketplace-seller-ops@amazon.com asking whats the status with our request.
     task_time: 15m
@@ -87,7 +87,7 @@ days:
     minutia: |
       https://basecamp.com/2498935/projects/17558492/todos/475222004#comment_886902641
     task_time: 10m
-  - task: windows iris installer
+  - task: win iris installer
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886821823
       and https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886921487
@@ -100,7 +100,7 @@ days:
   invoice: 3
 - date: "2023-02-20"
   tasks:
-  - task: windows iris installer
+  - task: win iris installer
     minutia: |
       Recheck folders (from
       https://basecamp.com/2498935/projects/17971091/todos/473936484#comment_886774752).
@@ -117,7 +117,7 @@ days:
   invoice: 3
 - date: "2023-02-19"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       aws marketplace display updates
     task_time: 20m
@@ -133,7 +133,7 @@ days:
     minutia: |
       sectigo code sign certs
     task_time: 40m
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       aws marketplace display updates
     task_time: 10m
@@ -149,11 +149,11 @@ days:
     minutia: |
       Sectigo code sign certs.
     task_time: 20m
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 45m
-  - task: windows iris installer
+  - task: win iris installer
     task_time: 15m
   invoice: 3
 - date: "2023-02-15"
@@ -204,7 +204,7 @@ days:
   invoice: 2
 - date: "2023-02-07"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 30m
@@ -213,21 +213,21 @@ days:
   invoice: 2
 - date: "2023-02-06"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 8h
   invoice: 2
 - date: "2023-02-05"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 8h
   invoice: 2
 - date: "2023-02-03"
   tasks:
-  - task: bridge for aws
+  - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 6h
