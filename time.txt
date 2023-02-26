@@ -15,7 +15,7 @@ days:
     minutia: |
       Discuss AWS Bridge updates from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887373599.
-    task_time: 1h20m
+    task_time: 2h
   - task: windows spectra installer
     minutia: |
       Clarify indented spectra.prm
