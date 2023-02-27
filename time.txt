@@ -14,8 +14,9 @@ days:
   - task: basecamp and email chatter
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/475601464
-      https://basecamp.com/2498935/projects/4645512/todos/474123993#comment_887457474
       https://basecamp.com/2498935/projects/5361184/todos/473655458#comment_887449584
+      Gathering list of spectra installers from
+      https://basecamp.com/2498935/projects/4645512/todos/474123993#comment_887457474.
     task_time: 1h30m
   - task: win sbx spectra installer
     minutia: |
