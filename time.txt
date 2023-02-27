@@ -11,16 +11,21 @@ invoices:
 days:
 - date: "2023-02-26"
   tasks:
+  - task: macos sbx media player
+    minutia: |
+      Discuss media player in testflight rate button https://basecamp.com/2498935/projects/4653471/todos/475565588.
+    task_time: 10m
   - task: sbx bridge for aws
     minutia: |
       Discuss and plan sbx bridge updates from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887373599.
     task_time: 2h
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
+      New installer from https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_887381893.
       Clarify desired Adobe spectra plugin
       from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023.
-    task_time: 10m
+    task_time: 25m
   invoice: 3
 - date: "2023-02-25"
   tasks:
@@ -70,7 +75,7 @@ days:
     minutia: |
       Email aws-marketplace-seller-ops@amazon.com asking whats the status with our request.
     task_time: 15m
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       It'll take some fiddling to maintain forks like this unless I
       take time to add branching logic to gitlab/appveyor CI pipeline
@@ -94,7 +99,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886821823
       and https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886921487
     task_time: 30m
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 10m
   - task: win media player installer
     minutia: Release media player v1.23.
@@ -111,7 +116,7 @@ days:
     minutia: |
       Check live server SSL certs.
     task_time: 15m
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Spectra installer pipeline failed, alex resolved by disabling
       host streaming out of office @90mbps.
@@ -126,12 +131,12 @@ days:
   invoice: 3
 - date: "2023-02-18"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 10m
   invoice: 3
 - date: "2023-02-17"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Sectigo code sign certs.
     task_time: 40m
@@ -139,7 +144,7 @@ days:
     minutia: |
       aws marketplace display updates
     task_time: 10m
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Spectra activation issue (from
       https://basecamp.com/2498935/projects/17265419/todos/475218671).
@@ -147,7 +152,7 @@ days:
   invoice: 3
 - date: "2023-02-16"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Sectigo code sign certs.
     task_time: 20m
@@ -160,30 +165,30 @@ days:
   invoice: 3
 - date: "2023-02-15"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Sectigo code sign certs.
     task_time: 3h30m
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 45m
   invoice: 2
 - date: "2023-02-14"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 15m
   invoice: 2
 - date: "2023-02-13"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Document spectra installer for support.
     task_time: 1h
   invoice: 2
 - date: "2023-02-10"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 2h
-  - task: win spectra installer
+  - task: win sbx spectra installer
     minutia: |
       Show and tell installer flow to alex/support.
     task_time: 1h
@@ -193,12 +198,12 @@ days:
   invoice: 2
 - date: "2023-02-09"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 2h
   invoice: 2
 - date: "2023-02-08"
   tasks:
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 15m
   - task: infrastructure
     minutia: Manage pushover alerts.
@@ -210,7 +215,7 @@ days:
     minutia: |
       Bridge installer.
     task_time: 30m
-  - task: win spectra installer
+  - task: win sbx spectra installer
     task_time: 40m
   invoice: 2
 - date: "2023-02-06"
