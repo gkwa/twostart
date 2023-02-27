@@ -18,7 +18,7 @@ days:
     task_time: 2h
   - task: win spectra installer
     minutia: |
-      Clarify indented spectra.prm
+      Clarify intended spectra.prm
       from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023.
     task_time: 10m
   invoice: 3
@@ -52,7 +52,7 @@ days:
     task_time: 25m
   - task: infrastructure
     minutia: |
-      cleanup/reorg credentials file
+      Cleanup/reorganize credentials goodle doc.
     task_time: 10m
   invoice: 3
 - date: "2023-02-22"
@@ -97,7 +97,7 @@ days:
   - task: win spectra installer
     task_time: 10m
   - task: win media player installer
-    minutia: release v1.23
+    minutia: Release media player v1.23.
     task_time: 10m
   invoice: 3
 - date: "2023-02-20"
@@ -121,7 +121,7 @@ days:
   tasks:
   - task: sbx bridge for aws
     minutia: |
-      aws marketplace display updates
+      AWS marketplace display updates
     task_time: 20m
   invoice: 3
 - date: "2023-02-18"
@@ -133,7 +133,7 @@ days:
   tasks:
   - task: win spectra installer
     minutia: |
-      sectigo code sign certs
+      Sectigo code sign certs.
     task_time: 40m
   - task: sbx bridge for aws
     minutia: |
@@ -188,7 +188,7 @@ days:
       Show and tell installer flow to alex/support.
     task_time: 1h
   - task: sbx live
-    minutia: fix liveeu
+    minutia: Fix liveeu
     task_time: 1h
   invoice: 2
 - date: "2023-02-09"
@@ -201,7 +201,7 @@ days:
   - task: win spectra installer
     task_time: 15m
   - task: infrastructure
-    minutia: manage pushover alerts
+    minutia: Manage pushover alerts.
     task_time: 15m
   invoice: 2
 - date: "2023-02-07"
