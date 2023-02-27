@@ -60,7 +60,7 @@ days:
   - task: sbx live v2
     minutia: |
       Light server testing.
-      Discussing plans  from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207.
+      Discussing plans from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207.
     task_time: 10m
   - task: sbx live
     minutia: |
@@ -72,8 +72,10 @@ days:
     task_time: 15m
   - task: win spectra installer
     minutia: |
-      It'll take some fiddling to maintain forks like this unless I take time to add branching logic to gitlab/appveyor ci
-      from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_886957874.
+      It'll take some fiddling to maintain forks like this unless I
+      take time to add branching logic to gitlab/appveyor CI pipeline
+      from
+      https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_886957874.
     task_time: 1h
   invoice: 3
 - date: "2023-02-21"
@@ -94,7 +96,7 @@ days:
     task_time: 30m
   - task: win spectra installer
     task_time: 10m
-  - task: windows mediaplayer installer
+  - task: win media player installer
     minutia: release v1.23
     task_time: 10m
   invoice: 3
@@ -111,7 +113,7 @@ days:
     task_time: 15m
   - task: win spectra installer
     minutia: |
-      Spectra installer pipline failed, alex resolved by disabling
+      Spectra installer pipeline failed, alex resolved by disabling
       host streaming out of office @90mbps.
     task_time: 25m
   invoice: 3
