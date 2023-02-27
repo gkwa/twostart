@@ -9,6 +9,17 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-02-27"
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      https://basecamp.com/2498935/projects/17265419/todos/475567529
+    task_time: 10m
+  - task: win sbx iris installer
+    minutia: |
+      https://basecamp.com/2498935/projects/17971091/todos/475558029#comment_887398469
+    task_time: 10m
+  invoice: 3
 - date: "2023-02-26"
   tasks:
   - task: macos sbx media player
@@ -94,20 +105,20 @@ days:
     minutia: |
       https://basecamp.com/2498935/projects/17558492/todos/475222004#comment_886902641
     task_time: 10m
-  - task: win iris installer
+  - task: win sbx iris installer
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886821823
       and https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886921487
     task_time: 30m
   - task: win sbx spectra installer
     task_time: 10m
-  - task: win media player installer
+  - task: win sbx media player installer
     minutia: Release media player v1.23.
     task_time: 10m
   invoice: 3
 - date: "2023-02-20"
   tasks:
-  - task: win iris installer
+  - task: win sbx iris installer
     minutia: |
       Recheck folders (from
       https://basecamp.com/2498935/projects/17971091/todos/473936484#comment_886774752).
@@ -160,7 +171,7 @@ days:
     minutia: |
       Bridge installer.
     task_time: 45m
-  - task: win iris installer
+  - task: win sbx iris installer
     task_time: 15m
   invoice: 3
 - date: "2023-02-15"
