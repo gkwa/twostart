@@ -25,7 +25,9 @@ days:
   - task: win sbx spectra installer
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/475567529
-    task_time: 10m
+      Test most recent build on virtualbox and post updates here
+      https://basecamp.com/2498935/projects/17265419/todos/475058127#comment_887520749.
+    task_time: 40m
   - task: win sbx iris installer
     minutia: |
       https://basecamp.com/2498935/projects/17971091/todos/475558029#comment_887398469
