@@ -11,6 +11,10 @@ invoices:
 days:
 - date: "2023-02-27"
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Submit updated product load form for https://basecamp.com/2498935/projects/17265419/todos/472687672.    
+    task_time: 30m
   - task: basecamp and email chatter
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/475601464
