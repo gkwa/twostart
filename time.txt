@@ -10,11 +10,13 @@ invoices:
   paid_on: "2023-02-16"
 days:
 - date: "2023-02-27"
+  invoice: 3
   tasks:
   - task: sbx bridge for aws
     minutia: |
       Submit updated product load form for https://basecamp.com/2498935/projects/17265419/todos/472687672.    
-    task_time: 30m
+      Emails to aws support trying to adjust listing.
+    task_time: 1h
   - task: basecamp and email chatter
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/475601464
@@ -32,8 +34,8 @@ days:
     minutia: |
       https://basecamp.com/2498935/projects/17971091/todos/475558029#comment_887398469
     task_time: 10m
-  invoice: 3
 - date: "2023-02-26"
+  invoice: 3
   tasks:
   - task: macos sbx media player
     minutia: |
@@ -50,8 +52,8 @@ days:
       Clarify desired Adobe spectra plugin
       from https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_887373023.
     task_time: 25m
-  invoice: 3
 - date: "2023-02-25"
+  invoice: 3
   tasks:
   - task: sbx bridge for aws
     minutia: |
@@ -59,16 +61,16 @@ days:
       Learn whether php7.4 being EOL on amazonlinux is significant
       from https://basecamp.com/2498935/projects/17265419/todos/474609671#comment_887370348.
     task_time: 3h
-  invoice: 3
 - date: "2023-02-24"
+  invoice: 3
   tasks:
   - task: sbx bridge for aws
     minutia: |
       Debug activation from https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887267702.
       Attempt clarify bridge startup after fiddling.
     task_time: 4h
-  invoice: 3
 - date: "2023-02-23"
+  invoice: 3
   tasks:
   - task: sbx bridge for aws
     minutia: |
@@ -83,8 +85,8 @@ days:
     minutia: |
       Cleanup/reorganize credentials goodle doc.
     task_time: 10m
-  invoice: 3
 - date: "2023-02-22"
+  invoice: 3
   tasks:
   - task: sbx live v2
     minutia: |
@@ -106,8 +108,8 @@ days:
       from
       https://basecamp.com/2498935/projects/17265419/todos/475368918#comment_886957874.
     task_time: 1h
-  invoice: 3
 - date: "2023-02-21"
+  invoice: 3
   tasks:
   - task: basecamp and email chatter
     minutia: |
@@ -128,8 +130,8 @@ days:
   - task: win sbx media player installer
     minutia: Release media player v1.23.
     task_time: 10m
-  invoice: 3
 - date: "2023-02-20"
+  invoice: 3
   tasks:
   - task: win sbx iris installer
     minutia: |
@@ -145,20 +147,20 @@ days:
       Spectra installer pipeline failed, alex resolved by disabling
       host streaming out of office @90mbps.
     task_time: 25m
-  invoice: 3
 - date: "2023-02-19"
+  invoice: 3
   tasks:
   - task: sbx bridge for aws
     minutia: |
       AWS marketplace display updates
     task_time: 20m
-  invoice: 3
 - date: "2023-02-18"
+  invoice: 3
   tasks:
   - task: win sbx spectra installer
     task_time: 10m
-  invoice: 3
 - date: "2023-02-17"
+  invoice: 3
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -173,8 +175,8 @@ days:
       Spectra activation issue (from
       https://basecamp.com/2498935/projects/17265419/todos/475218671).
     task_time: 2h
-  invoice: 3
 - date: "2023-02-16"
+  invoice: 3
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -186,8 +188,8 @@ days:
     task_time: 45m
   - task: win sbx iris installer
     task_time: 15m
-  invoice: 3
 - date: "2023-02-15"
+  invoice: 2
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -195,20 +197,20 @@ days:
     task_time: 3h30m
   - task: win sbx spectra installer
     task_time: 45m
-  invoice: 2
 - date: "2023-02-14"
+  invoice: 2
   tasks:
   - task: win sbx spectra installer
     task_time: 15m
-  invoice: 2
 - date: "2023-02-13"
+  invoice: 2
   tasks:
   - task: win sbx spectra installer
     minutia: |
       Document spectra installer for support.
     task_time: 1h
-  invoice: 2
 - date: "2023-02-10"
+  invoice: 2
   tasks:
   - task: win sbx spectra installer
     task_time: 2h
@@ -219,21 +221,21 @@ days:
   - task: sbx live
     minutia: Fix liveeu
     task_time: 1h
-  invoice: 2
 - date: "2023-02-09"
+  invoice: 2
   tasks:
   - task: win sbx spectra installer
     task_time: 2h
-  invoice: 2
 - date: "2023-02-08"
+  invoice: 2
   tasks:
   - task: win sbx spectra installer
     task_time: 15m
   - task: infrastructure
     minutia: Manage pushover alerts.
     task_time: 15m
-  invoice: 2
 - date: "2023-02-07"
+  invoice: 2
   tasks:
   - task: sbx bridge for aws
     minutia: |
@@ -241,30 +243,29 @@ days:
     task_time: 30m
   - task: win sbx spectra installer
     task_time: 40m
-  invoice: 2
 - date: "2023-02-06"
+  invoice: 2
   tasks:
   - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 8h
-  invoice: 2
 - date: "2023-02-05"
+  invoice: 2
   tasks:
   - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 8h
-  invoice: 2
 - date: "2023-02-03"
+  invoice: 2
   tasks:
   - task: sbx bridge for aws
     minutia: |
       Bridge installer.
     task_time: 6h
-  invoice: 2
 - date: "2023-02-02"
+  invoice: 1
   tasks:
   - task: retainer
     task_time: 20h
-  invoice: 1
