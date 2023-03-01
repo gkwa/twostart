@@ -18,9 +18,17 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_885600142
       only to then discover chroma_sysconf provides this functionality
       from here
-      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887622703.  This could have been avoided if we were all in one skype channel, ugh.
-      Find solution for disabling stream-on-boot option from here https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_885414338.
-    task_time: 2h30m
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887622703.
+      This could have been avoided if we were all in one skype
+      channel, ugh.
+    task_time: 2h
+  - task: sbx bridge for aws
+    minutia: |
+      Find solution for disabling stream-on-boot option from here
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_885414338
+      which turns out to be simple from here
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887769021
+    task_time: 30m
   - task: basecamp chatter
     minutia: |
       https://basecamp.com/2498935/projects/5361184/todos/465320477#comment_887689536
