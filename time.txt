@@ -9,15 +9,31 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-02-28"
+  invoice: 3
+  tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Perform my expected git nonsense from here
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_885600142
+      only to then discover chroma_sysconf provides this functionality
+      from here
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887622703.  This could have been avoided if we were all in one skype channel, ugh.
+      Find solution for disabling stream-on-boot option from here https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_885414338.
+    task_time: 2h30m
+  - task: basecamp chatter
+    minutia: |
+      https://basecamp.com/2498935/projects/5361184/todos/465320477#comment_887689536
+    task_time: 20m
 - date: "2023-02-27"
   invoice: 3
   tasks:
   - task: sbx bridge for aws
     minutia: |
-      Submit updated product load form for https://basecamp.com/2498935/projects/17265419/todos/472687672.    
+      Submit updated AWS product load form for https://basecamp.com/2498935/projects/17265419/todos/472687672.    
       Emails to aws support trying to adjust listing.
     task_time: 1h
-  - task: basecamp and email chatter
+  - task: basecamp chatter
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/475601464
       https://basecamp.com/2498935/projects/5361184/todos/473655458#comment_887449584
@@ -83,7 +99,7 @@ days:
     task_time: 25m
   - task: infrastructure
     minutia: |
-      Cleanup/reorganize credentials goodle doc.
+      Cleanup/reorganize credentials google doc.
     task_time: 10m
 - date: "2023-02-22"
   invoice: 3
@@ -111,7 +127,7 @@ days:
 - date: "2023-02-21"
   invoice: 3
   tasks:
-  - task: basecamp and email chatter
+  - task: basecamp chatter
     minutia: |
       https://basecamp.com/2498935/projects/17265419/todos/475218671#comment_886917406.
       VM Cloud Instance in Tokyo Japan for Imagica.
