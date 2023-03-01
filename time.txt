@@ -138,7 +138,7 @@ days:
     task_time: 10m
   - task: win sbx iris installer
     minutia: |
-      https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886821823
+      https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886843877
       and https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_886921487
     task_time: 30m
   - task: win sbx spectra installer
