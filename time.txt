@@ -1,4 +1,7 @@
 invoices:
+- number: 4
+  submitted_on: null
+  paid_on: null
 - number: 3
   submitted_on: "2023-03-01"
   paid_on: null
@@ -9,6 +12,17 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-01"
+  invoice: 4
+  tasks:
+  - task: basecamp chatter
+    minutia: |
+      https://basecamp.com/2498935/projects/5361184/todos/465320477#comment_887830774
+    task_time: 10m
+  - task: sbx bridge for aws
+    minutia: |
+      https://basecamp.com/2498935/projects/17265419/todos/472687672#comment_887810399
+    task_time: 10m
 - date: "2023-02-28"
   invoice: 3
   tasks:
