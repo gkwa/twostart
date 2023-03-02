@@ -19,7 +19,7 @@ days:
     minutia: |
       Discussing AWS Marketplace price change from
       https://basecamp.com/2498935/projects/17265419/todos/472687672#comment_887931894.
-    task_time: 10m
+    task_time: 20m
 - date: "2023-03-01"
   invoice: 4
   tasks:
