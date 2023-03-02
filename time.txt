@@ -15,6 +15,10 @@ days:
 - date: "2023-03-02"
   invoice: 4
   tasks:
+  - task: basecamp chatter
+    minutia: |
+      https://basecamp.com/2498935/projects/4645512/todos/475830115
+    task_time: 20m
   - task: sbx bridge for aws
     minutia: |
       Discussing AWS Marketplace price change from
