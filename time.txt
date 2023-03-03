@@ -12,6 +12,16 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-03"
+  invoice: 4
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Add these bits
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888036942.
+      Consider how to manage
+      https://basecamp.com/2498935/projects/17265419/todos/475058127#comment_887529489.
+    task_time: 30m
 - date: "2023-03-02"
   invoice: 4
   tasks:
