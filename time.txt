@@ -37,11 +37,8 @@ days:
   - task: sbx live v2
     minutia: |
       Fiddle with tl3, create 'dragtooth' package to create session ids on tl3.
-    task_time: 3h
-  - task: sbx live v2
-    minutia: |
-      Study how to send a stream to tl3/tl4.
-    task_time: 3h
+      Learn how to send a stream to tl3/tl4.
+    task_time: 6h
 - date: "2023-03-03"
   invoice: 4
   tasks:
