@@ -12,6 +12,22 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-04"
+  invoice: 4
+  tasks:
+  - task: sbx live v2
+    minutia: |
+      Learn how to instruct kubernetes node to pull private container
+      image from amazon ecr.
+    task_time: 1h
+  - task: sbx live v2
+    minutia: |
+      Fiddle with tl3, create 'dragtooth' package to create session ids on tl3.
+    task_time: 3h
+  - task: sbx live v2
+    minutia: |
+      Study how to send a stream to tl3/tl4.
+    task_time: 3h
 - date: "2023-03-03"
   invoice: 4
   tasks:
@@ -30,7 +46,9 @@ days:
   tasks:
   - task: sbx live v2
     minutia: |
-      EC2 instance for Light server testing setup.
+      Learn more how to setup kubernetes on ec2 in order to stress
+      test sls setup on ec2 from
+      https://basecamp.com/2498935/projects/18566065/todos/461737115.
     task_time: 2h
   - task: win sbx iris installer
     minutia: |
