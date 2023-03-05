@@ -12,6 +12,20 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-05"
+  invoice: 4
+  tasks:
+  - task: basecamp chatter
+    minutia: |
+      Attempt to make a case for merging cdi builds with non-cdi
+      builds from
+      https://basecamp.com/2498935/projects/17265419/todos/475058127#comment_888148512
+    task_time: 10m
+  - task: sbx live v2
+    minutia: |
+      Refactor dragtooth sls test app and test server further
+      https://basecamp.com/2498935/projects/18566065/todos/475923259#comment_888149640
+    task_time: 5h
 - date: "2023-03-04"
   invoice: 4
   tasks:
