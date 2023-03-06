@@ -17,6 +17,10 @@ days:
   tasks:
   - task: win sbx spectra installer
     minutia: |
+      Skype chatter about Sectigo USB arrival status.
+    task_time: 20m
+  - task: win sbx spectra installer
+    minutia: |
       Bundle new exe https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888189053.
     task_time: 10m
 - date: "2023-03-05"
