@@ -12,9 +12,20 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-06"
+  invoice: 4
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Bundle new exe https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888189053.
+    task_time: 10m
 - date: "2023-03-05"
   invoice: 4
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Bundle new exe https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888155259.
+    task_time: 10m
   - task: basecamp chatter
     minutia: |
       Attempt to make a case for merging cdi builds with non-cdi
