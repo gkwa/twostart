@@ -22,6 +22,10 @@ days:
 - date: "2023-03-06"
   invoice: 4
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Another build from https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888189053.
+    task_time: 10m
   - task: win sbx iris installer
     minutia: |
       https://basecamp.com/2498935/projects/17971091/todos/475558029#comment_888297465
@@ -35,10 +39,6 @@ days:
   - task: win sbx spectra installer
     minutia: |
       Another build from https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888289371.
-    task_time: 10m
-  - task: win sbx spectra installer
-    minutia: |
-      Another build from https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888189053.
     task_time: 10m
   - task: win sbx spectra installer
     minutia: |
