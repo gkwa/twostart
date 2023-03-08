@@ -12,6 +12,36 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-08"
+  invoice: 4
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Skype chatter about Sectigo USB arrival status.
+    task_time: 30m
+  - task: macos sbx spectra
+    minutia: |
+      More of helping CNN with activation from here:
+      https://basecamp.com/2498935/projects/4707554/messages/103851661.
+    task_time: 45m
+  - task: sbx live v2
+    minutia: |
+      Flailing on
+      https://basecamp.com/2498935/projects/18566065/todos/461737115.
+      Ugh, what a time suck...annoyed.
+    task_time: 2h
+  - task: sbx live v2
+    minutia: |
+      Search for how to reduce bandwidth pricing while testing
+      streaming to tl3 from here
+      https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/
+      and from
+      https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_888503833.
+    task_time:
+  - task: sbx live v2
+    minutia: |
+      Snapshot broker to broker2.
+    task_time: 1h
 - date: "2023-03-07"
   invoice: 4
   tasks:
