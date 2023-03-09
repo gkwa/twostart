@@ -15,6 +15,11 @@ days:
 - date: "2023-03-09"
   invoice: 4
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      New build
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888607926.
+    task_time: 10m
   - task: macos sbx spectra
     minutia: |
       More of helping CNN with activation from here:
