@@ -18,7 +18,7 @@ days:
   - task: sbx live v2
     minutia: |
       More attempts to get pulltest to work from
-      https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_888710144
+      https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_888710144.
     task_time: 3h
   - task: win sbx spectra installer
     minutia: |
