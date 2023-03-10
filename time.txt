@@ -15,10 +15,20 @@ days:
 - date: "2023-03-09"
   invoice: 4
   tasks:
+  - task: sbx live v2
+    minutia: |
+      More attempts to get pulltest to work from
+      https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_888710144
+    task_time: 3h
   - task: win sbx spectra installer
     minutia: |
       New build
       https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_888607926.
+    task_time: 10m
+  - task: win sbx spectra installer
+    minutia: |
+      New build
+      https://basecamp.com/2498935/projects/17265419/todos/475958769#comment_888712464.
     task_time: 10m
   - task: macos sbx spectra
     minutia: |
