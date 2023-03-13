@@ -283,7 +283,8 @@ days:
   tasks:
   - task: sbx bridge for aws
     minutia: |
-      Submit updated AWS product load form for https://basecamp.com/2498935/projects/17265419/todos/472687672.    
+      Submit updated AWS product load form for
+      https://basecamp.com/2498935/projects/17265419/todos/472687672.
       Emails to aws support trying to adjust listing.
     task_time: 1h
   - task: basecamp chatter
