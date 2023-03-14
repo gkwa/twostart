@@ -12,6 +12,18 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-13"
+  invoice: 4
+  tasks:
+  - task: sbx live v2
+    minutia: |
+      Retest send/pull after sls v2.2.44 upgrade from
+      https://basecamp.com/2498935/projects/18566065/todos/476115610#comment_888996340.
+    task_time: 3h
+  - task: infrastructure
+    minutia: |
+      Enable HTTPs for devbroker.
+    task_time: 45m
 - date: "2023-03-12"
   invoice: 4
   tasks:
@@ -22,7 +34,7 @@ days:
     task_time: 5m
   - task: sbx live v2
     minutia: |
-      Fight apache2 config Permission denied error while accessing
+      Fight apache2 config permission denied error while accessing
       https://.../light/light_status.php after installing tls.
     task_time: 2h
 - date: "2023-03-11"
