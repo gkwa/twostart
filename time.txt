@@ -15,6 +15,13 @@ days:
 - date: "2023-03-14"
   invoice: 4
   tasks:
+  - task: basecamp chatter
+    minutia: |
+      https://basecamp.com/2498935/projects/18566065/todos/472664756#comment_889080831
+      https://basecamp.com/2498935/projects/17971091/todos/475163096#comment_889116247
+      https://basecamp.com/2498935/projects/18566065/todos/476103507#comment_889079501
+      https://basecamp.com/2498935/projects/18566065/todos/475923259#comment_889079800
+    task_time: 1h
   - task: sbx live v2
     minutia: |
       Shutdown overnight test. Close open bugs from
