@@ -15,6 +15,11 @@ days:
 - date: "2023-03-15"
   invoice: 4
   tasks:
+  - task: win sbx iris installer
+    minutia: |
+      Fix iris installer from
+      https://basecamp.com/2498935/projects/17971091/todos/475958377#comment_889277502.
+    task_time: 3h
   - task: sbx live v2
     minutia: |
       Add workaround for broker vs sbroker from
