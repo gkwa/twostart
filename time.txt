@@ -1,4 +1,7 @@
 invoices:
+- number: 5
+  submitted_on: null
+  paid_on: null
 - number: 4
   submitted_on: "2023-03-15"
   paid_on: null
@@ -12,6 +15,13 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-16"
+  invoice: 5
+  tasks:
+  - task: infrastructure
+    minutia: |
+      Skype chat about adding sales to reboot webui
+    task_time: 30m
 - date: "2023-03-15"
   invoice: 4
   tasks:
