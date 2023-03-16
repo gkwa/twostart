@@ -20,7 +20,7 @@ days:
   tasks:
   - task: infrastructure
     minutia: |
-      Skype chat about adding sales to reboot webui
+      Skype chat about adding sales to reboot webui.
     task_time: 30m
 - date: "2023-03-15"
   invoice: 4
