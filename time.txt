@@ -18,6 +18,23 @@ days:
 - date: "2023-03-16"
   invoice: 5
   tasks:
+  - task: linux davinci
+    minutia: |
+      Replace old davinci hosts where dcv doesn't run anymore. Created
+      launch template in us-west-1.
+    task_time: 1h30m
+  - task: win sbx spectra installer
+    minutia: |
+      Attempt to convince that we need a separate bundle for spectra
+      CDI. Doing adhoc will break soon because this isn't handled
+      https://basecamp.com/2498935/projects/17265419/todos/475058127#comment_888148512.
+      https://basecamp.com/2498935/projects/17265419/todos/476513745#comment_889309836
+    task_time: 30m
+  - task: win sbx spectra installer
+    minutia: |
+      New build
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889309923.
+    task_time: 10m
   - task: infrastructure
     minutia: |
       Skype chat about adding sales to reboot webui.
