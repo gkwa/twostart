@@ -18,6 +18,16 @@ days:
 - date: "2023-03-16"
   invoice: 5
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      New build from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889485488.
+    task_time: 5m
+  - task: win sbx iris installer
+    minutia: |
+      New build from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889485488.
+    task_time: 5m
   - task: linux davinci
     minutia: |
       Replace old davinci hosts where dcv doesn't run anymore. Created
