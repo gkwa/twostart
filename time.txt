@@ -31,10 +31,10 @@ days:
 - date: "2023-03-16"
   invoice: 5
   tasks:
-  - task: linux davinci
+  - task: infrastructure
     minutia: |
       Replace old davinci hosts where dcv doesn't run anymore. Created
-      launch template in us-west-1.
+      launch template for linux davinci in us-west-1.
     task_time: 1h30m
   - task: win sbx spectra installer
     minutia: |
