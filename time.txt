@@ -18,6 +18,10 @@ days:
 - date: "2023-03-17"
   invoice: 5
   tasks:
+  - task: sbx live
+    minutia: |
+      Dig up old documention on deploying server SSL certs.
+    task_time: 30m
   - task: win sbx spectra installer
     minutia: |
       New build from
