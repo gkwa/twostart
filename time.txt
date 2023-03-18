@@ -20,7 +20,7 @@ days:
   tasks:
   - task: sbx live
     minutia: |
-      Dig up old documention on deploying server SSL certs.
+      Dig up old documention on deploying server SSL certs with ansible.
     task_time: 30m
   - task: win sbx spectra installer
     minutia: |
