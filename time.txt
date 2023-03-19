@@ -20,6 +20,11 @@ days:
   tasks:
   - task: infrastructure
     minutia: |
+      Manually tag all volumes with the name of the instance they belog to
+      https://basecamp.com/2498935/projects/14036660/todos/476647581.
+    task_time: 30m
+  - task: infrastructure
+    minutia: |
       Clean old, unused EBS volumes from
       https://basecamp.com/2498935/projects/14036660/todos/476647581.
     task_time: 40m
