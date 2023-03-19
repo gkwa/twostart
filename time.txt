@@ -18,6 +18,10 @@ days:
 - date: "2023-03-19"
   invoice: 5
   tasks:
+  - task: sbx live
+    minutia: |
+      Restart sshd service for cpu overusage from skype.
+    task_time: 5m
   - task: infrastructure
     minutia: |
       Manually tag all volumes with the name of the instance they belog to
