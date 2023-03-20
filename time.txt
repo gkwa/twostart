@@ -18,6 +18,11 @@ days:
 - date: "2023-03-20"
   invoice: 5
   tasks:
+  - task: macos sbx spectra
+    minutia: |
+      Test spectra installer from
+      https://basecamp.com/2498935/projects/17265419/todos/476692691#comment_889713392.
+    task_time: 15m
   - task: infrastructure
     minutia: |
       Remove davinci dangling ebs volume from skype.
