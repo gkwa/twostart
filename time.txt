@@ -20,6 +20,11 @@ days:
   tasks:
   - task: win sbx iris installer
     minutia: |
+      Motivate testing new build
+      https://basecamp.com/2498935/projects/17971091/todos/475163096#comment_889823372.
+    task_time: 5m
+  - task: win sbx iris installer
+    minutia: |
       New build from
       https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889780161.
     task_time: 5m
