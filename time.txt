@@ -15,6 +15,19 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-21"
+  invoice: 5
+  tasks:
+  - task: win sbx iris installer
+    minutia: |
+      New build from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889780161
+    task_time: 5m
+  - task: win sbx spectra installer
+    minutia: |
+      New build from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889780161.
+    task_time: 5m
 - date: "2023-03-20"
   invoice: 5
   tasks:
