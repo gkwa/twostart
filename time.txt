@@ -18,6 +18,11 @@ days:
 - date: "2023-03-21"
   invoice: 5
   tasks:
+  - task: macos sbx spectra
+    minutia: |
+      Re-test spectra installer from
+      https://basecamp.com/2498935/projects/17265419/todos/476692691#comment_889871630.
+    task_time: 20m
   - task: infrastructure
     minutia: |
       Discuss pushover alert thresholds on skype and wonder why tcm is
