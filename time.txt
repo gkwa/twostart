@@ -18,6 +18,11 @@ days:
 - date: "2023-03-21"
   invoice: 5
   tasks:
+  - task: infrastructure
+    minutia: |
+      Discuss pushover alert thresholds on skype and wonder why tcm is
+      taking longer than usual.
+    task_time: 45m
   - task: win sbx iris installer
     minutia: |
       Motivate testing new build
