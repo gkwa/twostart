@@ -21,7 +21,7 @@ days:
   - task: win sbx iris installer
     minutia: |
       New build from
-      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889780161
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_889780161.
     task_time: 5m
   - task: win sbx spectra installer
     minutia: |
