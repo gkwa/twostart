@@ -25,7 +25,7 @@ days:
     task_time: 20m
   - task: infrastructure
     minutia: |
-      Discuss pushover alert thresholds on skype and wonder why tcm is
+      Discuss pushover alert thresholds on Skype and wonder why tcm is
       taking longer than usual.
     task_time: 45m
   - task: win sbx iris installer
@@ -53,14 +53,14 @@ days:
     task_time: 15m
   - task: infrastructure
     minutia: |
-      Remove davinci dangling ebs volume from skype.
+      Remove davinci dangling ebs volume from Skype.
     task_time: 5m
 - date: "2023-03-19"
   invoice: 5
   tasks:
   - task: sbx live
     minutia: |
-      Restart sshd service for cpu overusage from skype.
+      Restart sshd service for cpu overusage from Skype.
     task_time: 5m
   - task: infrastructure
     minutia: |
@@ -76,7 +76,7 @@ days:
     minutia: |
       Work with support to learn how to deal with locked tables from
       https://basecamp.com/2498935/projects/17975355/todos/457175187#comment_889586325
-      and skype.
+      and Skype.
     task_time: 20m
 - date: "2023-03-17"
   invoice: 5
@@ -420,7 +420,7 @@ days:
       only to then discover chroma_sysconf provides this functionality
       from
       https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_887622703.
-      This could have been avoided if we were all in one skype
+      This could have been avoided if we were all in one Skype
       channel, ugh.
     task_time: 2h
   - task: sbx bridge for aws
