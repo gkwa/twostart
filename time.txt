@@ -15,18 +15,26 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-26"
+  invoice: 5
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Fiddle with SpectraDual.ps1 installer helper script from
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890304319.
+    task_time: 40m
 - date: "2023-03-24"
   invoice: 5
   tasks:
   - task: infrastructure
     minutia: |
       Attempt to bring Grafana host to t3.medium, but that fails.
-      Revert to t2.medium.
+      Revert to t2.medium. Ref: Skype support channel.
     task_time: 10m
   - task: infrastructure
     minutia: |
       Grafana shit the bed. Document grafana/alertmanager
-      ignore_alertmanager_alerts.sh workaround for support on Skype
+      ignore_alertmanager_alerts.sh workaround for support from Skype
       support channel.
     task_time: 20m
 - date: "2023-03-21"
