@@ -29,7 +29,7 @@ days:
   - task: infrastructure
     minutia: |
       Attempt to bring Grafana host to t3.medium, but that fails.
-      Revert to t2.medium. Ref: Skype support channel.
+      Revert to t2.medium (ref Skype support channel).
     task_time: 10m
   - task: infrastructure
     minutia: |
