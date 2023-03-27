@@ -15,12 +15,26 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-27"
+  invoice: 5
+  tasks:
+  - task: sbx live
+    minutia: |
+      Deploy updated Godady ssl certs to live* servers.
+    task_time: 1h30m
+  - task: win sbx spectra installer
+    minutia: |
+      Fix my errors from SpectraSetupDual.ps1 from
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890304319
+      and bundle new installer for
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890324822.
+    task_time: 40m
 - date: "2023-03-26"
   invoice: 5
   tasks:
   - task: win sbx spectra installer
     minutia: |
-      Fiddle with SpectraDual.ps1 installer helper script from
+      Fiddle with SpectraSetupDual.ps1 installer helper script from
       https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890304319.
     task_time: 40m
 - date: "2023-03-24"
