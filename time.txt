@@ -18,7 +18,7 @@ days:
 - date: "2023-03-28"
   invoice: 5
   tasks:
-  - task: aws marketplace streambox CDI
+  - task: sbx bridge for aws
     minutia: |
       Advise on how to recover from forgotten webui credentials from
       https://basecamp.com/2498935/projects/17265419/todos/477080194#comment_890505979.
