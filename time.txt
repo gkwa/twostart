@@ -15,6 +15,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-28"
+  invoice: 5
+  tasks:
+  - task: aws marketplace streambox CDI
+    minutia: |
+      Advise on how to recover from forgotten webui credentials from
+      https://basecamp.com/2498935/projects/17265419/todos/477080194#comment_890505979.
+    task_time: 15m
 - date: "2023-03-27"
   invoice: 5
   tasks:
@@ -25,7 +33,7 @@ days:
     task_time: 5m
   - task: infrastructure
     minutia: |
-      Deploy updated Godady ssl certs to avenir host from
+      Deploy updated Godady ssl cert to avenir host from
       https://basecamp.com/2498935/projects/4658296/todos/474807805#comment_890455405.
     task_time: 20m
   - task: infrastructure
