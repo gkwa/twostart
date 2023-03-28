@@ -25,11 +25,13 @@ days:
     task_time: 5m
   - task: infrastructure
     minutia: |
-      Deploy updated Godady ssl certs to avenir host.
+      Deploy updated Godady ssl certs to avenir host from
+      https://basecamp.com/2498935/projects/4658296/todos/474807805#comment_890455405.
     task_time: 20m
   - task: infrastructure
     minutia: |
-      Deploy updated Godady ssl certs to live* servers.
+      Deploy updated Godady ssl certs to live* servers from
+      https://basecamp.com/2498935/projects/4658296/todos/474807805#comment_890455405.
     task_time: 1h30m
   - task: win sbx spectra installer
     minutia: |
