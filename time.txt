@@ -18,6 +18,32 @@ days:
 - date: "2023-03-28"
   invoice: 5
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Consulting on spectra services permissions to allow non-admin to
+      run service in Skype and listing steps in email from
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890513114.
+    task_time: 40m
+  - task: win sbx spectra installer
+    minutia: |
+      Bring my virtualbox up to start testing/iterating state from
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890513114.
+    task_time: 1h
+  - task: win sbx spectra installer
+    minutia: |
+      Attempt to gain access to dave's document from
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890517167.
+      Login to microsoft as multiple profiles and since I don't use
+      live, I have to do 2FA password recovery steps.
+    task_time: 15m
+  - task: sbx bridge for aws
+    minutia: |
+      Further document steps to recover missing administrator password
+      from
+      https://basecamp.com/2498935/projects/17265419/todos/477080194#comment_890539082
+      and
+      https://basecamp.com/2498935/projects/17265419/todos/477080194#comment_890536777.
+    task_time: 15m
   - task: sbx bridge for aws
     minutia: |
       Advise on how to recover from forgotten webui credentials from
