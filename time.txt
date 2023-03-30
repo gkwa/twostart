@@ -18,6 +18,10 @@ days:
 - date: "2023-03-29"
   invoice: 5
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Rebuild cdi4 per alex request in Skype.
+    task_time: 25m
   - task: sbx bridge on flame
     minutia: |
       Add presetmap.xml to presets_flame.tgz for next-flame from
