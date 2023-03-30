@@ -15,6 +15,35 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-03-29"
+  invoice: 5
+  tasks:
+  - task: sbx bridge on flame
+    minutia: |
+      Add presetmap.xml to presets_flame.tgz for next-flame from
+      https://basecamp.com/2498935/projects/5361184/todos/448274633#comment_890729090.
+    task_time: 30m
+  - task: sbx bridge for aws
+    minutia: |
+      Add presetmap.xml to presets.tgz for next-latest, but not yet
+      flame from
+      https://basecamp.com/2498935/projects/5361184/todos/448274633#comment_890729090.
+    task_time: 1h
+  - task: sbx bridge for aws
+    minutia: |
+      Test upgrade to see if decoder starts on its own after upgrade.
+      It doesn't, but this is expected. Same as encoder.
+    task_time: 30m
+  - task: sbx bridge for aws
+    minutia: |
+      Fiddle with /var/lib/avenir/conf/presetmap.xml from Skpe and
+      https://basecamp.com/2498935/projects/5361184/todos/448274633#comment_890729090.
+    task_time: 10m
+  - task: win sbx spectra installer
+    minutia: |
+      Fix service permissions for non-admin for dualspectra from
+      https://basecamp.com/2498935/projects/17265419/todos/466463613#comment_890513114.
+    task_time: 1h
 - date: "2023-03-28"
   invoice: 5
   tasks:
