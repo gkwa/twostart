@@ -38,7 +38,7 @@ days:
   tasks:
   - task: sbx bridge for aws
     minutia: |
-      Rebuild cdi4 per alex request in Skype.
+      Rebuild cdi4 per alex's Skype request.
     task_time: 25m
   - task: sbx bridge on flame
     minutia: |
