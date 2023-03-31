@@ -21,6 +21,11 @@ days:
   - task: win sbx spectra installer
     minutia: |
       Rebuild spectra for cdi from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_890867606.
+    task_time: 10m
+  - task: win sbx spectra installer
+    minutia: |
+      Rebuild spectra for cdi from
       https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_890832300.
     task_time: 10m
   - task: win sbx spectra installer
