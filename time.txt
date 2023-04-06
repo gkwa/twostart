@@ -18,6 +18,13 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-05"
+  invoice: 6
+  tasks:
+  - task: infrastructure
+    minutia: |
+      Update master product list from 'eightbar' script.
+    task_time: 5h
 - date: "2023-04-04"
   invoice: 6
   tasks:
