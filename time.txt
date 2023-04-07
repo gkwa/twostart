@@ -25,7 +25,7 @@ days:
     minutia: |
       Rebuild spectra from
       https://basecamp.com/2498935/projects/17265419/todos/477305398#comment_891564354.
-    task_time: 10m
+    task_time: 20m
   - task: win sbx spectra installer
     minutia: |
       Move dual scripts from separate repo from here
