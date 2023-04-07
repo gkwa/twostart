@@ -21,6 +21,14 @@ days:
 - date: "2023-04-05"
   invoice: 6
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Discuss security hole from
+      https://basecamp.com/2498935/projects/17265419/todos/477619817.
+    task_time: 10m
+- date: "2023-04-05"
+  invoice: 6
+  tasks:
   - task: infrastructure
     minutia: |
       Update master product list from 'eightbar' script.
