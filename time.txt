@@ -21,6 +21,11 @@ days:
 - date: "2023-04-07"
   invoice: 6
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Test no-auth required for old webui
+      http://54.185.71.247/avenir/settings_webuipwd.php.
+    task_time: 1h20m
   - task: win sbx spectra installer
     minutia: |
       Chatter about dual script from
