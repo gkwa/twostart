@@ -21,6 +21,11 @@ days:
 - date: "2023-04-07"
   invoice: 6
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Update installer for Bridge instance, set Advance UI password to instance ID from
+      https://basecamp.com/2498935/projects/17265419/todos/477619817#comment_891638366.
+    task_time: 4h
   - task: win sbx spectra installer
     minutia: |
       Discuss on Skype bmd vs cdi tab from
