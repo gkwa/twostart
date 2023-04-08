@@ -25,6 +25,8 @@ days:
     minutia: |
       Update installer for Bridge instance, set Advance UI password to instance ID from
       https://basecamp.com/2498935/projects/17265419/todos/477619817#comment_891638366.
+      Upgrade efa drivers to latest from
+      https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/efa-start.html.
     task_time: 4h
   - task: win sbx spectra installer
     minutia: |
