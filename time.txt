@@ -18,6 +18,13 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-08"
+  invoice: 6
+  tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Add all updates to new image and post to marketplace.
+    task_time: 5h
 - date: "2023-04-07"
   invoice: 6
   tasks:
