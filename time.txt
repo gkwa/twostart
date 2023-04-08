@@ -23,7 +23,7 @@ days:
   tasks:
   - task: sbx bridge for aws
     minutia: |
-      Add all updates to new image and post to marketplace.
+      Add all updates to new iamge and replace cdi5 with this new image.
     task_time: 5h
 - date: "2023-04-07"
   invoice: 6
