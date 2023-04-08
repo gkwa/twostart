@@ -23,7 +23,7 @@ days:
   tasks:
   - task: win sbx spectra installer
     minutia: |
-      Discuss on Skype bmd vs cdi tab on
+      Discuss on Skype bmd vs cdi tab from
       https://basecamp.com/2498935/projects/17265419/todos/477305398#comment_891641358.
     task_time: 10m
   - task: sbx bridge for aws
