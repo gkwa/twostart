@@ -21,11 +21,20 @@ days:
 - date: "2023-04-07"
   invoice: 6
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Discuss on Skype bmd vs cdi tab on
+      https://basecamp.com/2498935/projects/17265419/todos/477305398#comment_891641358.
+    task_time: 10m
+  - task: sbx bridge for aws
+    minutia: |
+      Update userpresets.xml on bridge from Skype.
+    task_time: 30m
   - task: sbx bridge for aws
     minutia: |
       Test no-auth required for old webui
       http://54.185.71.247/avenir/settings_webuipwd.php.
-    task_time: 1h20m
+    task_time: 2h
   - task: win sbx spectra installer
     minutia: |
       Chatter about dual script from
