@@ -18,6 +18,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-09"
+  invoice: 6
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      New spectra build from
+      https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_891660200.
+    task_time: 10m
 - date: "2023-04-08"
   invoice: 6
   tasks:
