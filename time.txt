@@ -24,6 +24,11 @@ days:
   - task: win sbx spectra installer
     minutia: |
       New spectra build from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_891660830
+    task_time: 15m
+  - task: win sbx spectra installer
+    minutia: |
+      New spectra build from
       https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_891660200.
     task_time: 10m
 - date: "2023-04-08"
