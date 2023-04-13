@@ -44,7 +44,7 @@ days:
   tasks:
   - task: win sbx spectra installer
     minutia: |
-      Release spectra from 
+      Release spectra from
       https://basecamp.com/2498935/projects/17265419/todos/477717132.
     task_time: 10m
   - task: macos sbx spectra
