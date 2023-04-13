@@ -23,6 +23,10 @@ days:
   tasks:
   - task: sbx bridge for aws
     minutia: |
+      Write support ticket about failing to create private offer with error: Something went wrong.
+    task_time: 20m
+  - task: sbx bridge for aws
+    minutia: |
       Read up on private marketplace offers from
       https://docs.aws.amazon.com/marketplace/latest/userguide/private-offers-overview.html.
     task_time: 20m
