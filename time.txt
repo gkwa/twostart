@@ -18,6 +18,15 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-14"
+  invoice: 6
+  tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Email aws support asking for status on bridge update...its been
+      3d without reply from
+      https://basecamp.com/2498935/projects/17265419/todos/474498731#comment_891890126.
+    task_time: 5m
 - date: "2023-04-13"
   invoice: 6
   tasks:
