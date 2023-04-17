@@ -23,14 +23,16 @@ days:
   tasks:
   - task: win sbx spectra installer
     minutia: |
-      Work on new CDI installer.
+      Work on new CDI installer from
+      https://basecamp.com/2498935/projects/17265419/todos/476513745#comment_889309836.
     task_time: 4h
 - date: "2023-04-14"
   invoice: 6
   tasks:
   - task: win sbx spectra installer
     minutia: |
-      Work on new CDI installer.
+      Work on new CDI installer from
+      https://basecamp.com/2498935/projects/17265419/todos/476513745#comment_889309836.
     task_time: 4h
   - task: sbx bridge for aws
     minutia: |
