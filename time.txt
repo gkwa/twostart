@@ -18,9 +18,20 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-15"
+  invoice: 6
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Work on new CDI installer.
+    task_time: 4h
 - date: "2023-04-14"
   invoice: 6
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Work on new CDI installer.
+    task_time: 4h
   - task: sbx bridge for aws
     minutia: |
       Email aws support asking for status on bridge update...its been
