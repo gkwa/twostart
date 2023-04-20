@@ -7,7 +7,9 @@ invoices:
   paid_on: null
 - number: 4
   submitted_on: "2023-03-15"
-  paid_on: "2023-04-17"
+  paid_on: null
+  note: |
+    check was returned on 2023-04-19
 - number: 3
   submitted_on: "2023-03-01"
   paid_on: "2023-03-31"
