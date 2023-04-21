@@ -23,6 +23,12 @@ days:
 - date: "2023-04-21"
   invoice: 7
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Fix light error: LGHT0091 : Duplicate symbol Directory:Win64
+      after adding unreal from
+      https://basecamp.com/2498935/projects/17265419/todos/478220301#comment_893034294.
+    task_time: 3h
   - task: sbx bridge for aws
     minutia: |
       Help support with adhoc bridge update from
