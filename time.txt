@@ -20,6 +20,21 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-21"
+  invoice: 7
+  tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Help support with adhoc bridge update from
+      https://basecamp.com/2498935/projects/5361184/todos/448274633#comment_892920607.
+    task_time: 20m
+  - task: win sbx spectra installer
+    minutia: |
+      Add spectra assets to removesalt as git submodule instead of
+      only pulling from tip of spectra assets repo. Now we can rebuild
+      a particular version more easily since we're committing to a
+      spectra assets version in the submodule.
+    task_time: 1h30
 - date: "2023-04-20"
   invoice: 7
   tasks:
