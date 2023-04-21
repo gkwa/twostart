@@ -23,6 +23,23 @@ days:
 - date: "2023-04-20"
   invoice: 7
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Email AWS support for Bridge updates.
+    task_time: 10m
+  - task: sbx bridge for aws
+    minutia: |
+      Search for and test workaround for upgrading Bridge since AWS
+      hasn't released our updated image yet.
+    task_time: 1h30m
+  - task: win sbx spectra installer
+    minutia: |
+      Attempt to bundle Unreal 5.1 into wix installer from
+      https://basecamp.com/2498935/projects/17265419/todos/478220301.
+    task_time: 2h
+- date: "2023-04-20"
+  invoice: 7
+  tasks:
   - task: win sbx spectra installer
     minutia: |
       Test windows spectra logging from
