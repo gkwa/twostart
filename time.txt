@@ -34,7 +34,7 @@ days:
       only pulling from tip of spectra assets repo. Now we can rebuild
       a particular version more easily since we're committing to a
       spectra assets version in the submodule.
-    task_time: 1h30
+    task_time: 1h30m
 - date: "2023-04-20"
   invoice: 7
   tasks:
