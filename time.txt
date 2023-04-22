@@ -25,7 +25,14 @@ days:
   tasks:
   - task: win sbx spectra installer
     minutia: |
-      Fix light error: LGHT0091 : Duplicate symbol Directory:Win64
+      Add UE to non-standard c:/UE_5.1 directory. Wix wants you to not
+      do this, instead it recommends you put in standard paths
+      ProgramFiles or CommonFiles. It took a lot if trial and error to
+      make wix obey.
+    task_time: 2h
+  - task: win sbx spectra installer
+    minutia: |
+      Fix light error: LGHT0091 Duplicate symbol Directory:Win64
       after adding unreal from
       https://basecamp.com/2498935/projects/17265419/todos/478220301#comment_893034294.
     task_time: 3h
