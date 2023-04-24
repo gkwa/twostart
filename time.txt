@@ -1,4 +1,7 @@
 invoices:
+- number: 7
+  submitted_on: null
+  paid_on: null
 - number: 6
   submitted_on: "2023-04-17"
   paid_on: null
