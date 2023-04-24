@@ -26,6 +26,11 @@ days:
 - date: "2023-04-24"
   invoice: 7
   tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Rebuild windows installers for new bits from
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_893186614.
+    task_time: 10m
   - task: infrastructure
     minutia: |
       Explore workflow for creating spot instances from
