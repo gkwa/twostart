@@ -26,6 +26,10 @@ days:
 - date: "2023-04-24"
   invoice: 7
   tasks:
+  - task: infrastructure
+    minutia: |
+      Work with support on grafana alerts.
+    task_time: 15m
   - task: win sbx spectra installer
     minutia: |
       Rebuild windows installers for new bits from
@@ -150,7 +154,8 @@ days:
     task_time: 20m
   - task: sbx bridge for aws
     minutia: |
-      Write support ticket about failing to create private offer with error: Something went wrong.
+      Write support ticket about failing to create private offer with
+      error: Something went wrong.
     task_time: 20m
   - task: sbx bridge for aws
     minutia: |
