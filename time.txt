@@ -28,8 +28,8 @@ days:
   tasks:
   - task: infrastructure
     minutia: |
-      Work with support on grafana alerts.
-    task_time: 15m
+      Coach support on grafana alerts.
+    task_time: 30m
   - task: win sbx spectra installer
     minutia: |
       Rebuild windows installers for new bits from
