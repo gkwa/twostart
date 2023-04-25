@@ -33,8 +33,10 @@ days:
   - task: win sbx spectra installer
     minutia: |
       Rebuild windows installers for new bits from
-      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_893186614.
-    task_time: 10m
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_893186614
+      and
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_893196525.
+    task_time: 20m
   - task: infrastructure
     minutia: |
       Explore workflow for creating spot instances from
