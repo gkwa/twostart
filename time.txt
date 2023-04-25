@@ -10,9 +10,10 @@ invoices:
   paid_on: null
 - number: 4
   submitted_on: "2023-03-15"
-  paid_on: null
+  paid_on: "2023-04-24"
   note: |
     check was returned on 2023-04-19
+    direct deposit was then resubmitted and cleard on 4/24
 - number: 3
   submitted_on: "2023-03-01"
   paid_on: "2023-03-31"
