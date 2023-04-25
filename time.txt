@@ -35,7 +35,7 @@ days:
     task_time: 1h
   - task: infrastructure
     minutia: |
-      Coach support on grafana alerts.
+      Coach support on grafana alerts in skype support channel.
     task_time: 30m
   - task: win sbx spectra installer
     minutia: |
