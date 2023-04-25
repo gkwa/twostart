@@ -30,7 +30,7 @@ days:
     minutia: |
       Upgrade Bridge from latest to next-latest. Document steps to
       upgrade old ec2 instance assuming user does not want to
-      re-deploy new cloudformation template. Both from
+      redeploy new cloudformation template. Both from
       https://basecamp.com/2498935/projects/5361184/todos/448274633#comment_893210937.
     task_time: 1h
   - task: infrastructure
