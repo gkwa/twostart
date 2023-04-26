@@ -24,12 +24,24 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-04-26"
+  invoice: 7
+  tasks:
+  - task: infrastructure
+    minutia: |
+      Fiddle with launch templates to fetch secrets from ssm parameter store.
+    task_time: 1h
+  - task: win sbx spectra installer
+    minutia: |
+      Rebuild windows installer from
+      https://basecamp.com/2498935/projects/17265419/todos/474218891#comment_893401832.
+    task_time: 10m
 - date: "2023-04-25"
   invoice: 7
   tasks:
   - task: infrastructure
     minutia: |
-      Furst explore workflow for creating spot instances from
+      Explore workflow for creating spot instances from
       https://basecamp.com/2498935/projects/14036660/todos/476669832#comment_893159687.
     task_time: 2h10m
   - task: sbx bridge for aws
