@@ -35,7 +35,9 @@ days:
     minutia: |
       Fiddle with launch templates to fetch secrets from ssm parameter
       store.
-    task_time: 1h
+      Create client to fetch metadata and push to sns for watchdog to
+      fetch and start polling for volumes.
+    task_time: 5h
   - task: win sbx spectra installer
     minutia: |
       Rebuild windows installer from
