@@ -27,9 +27,14 @@ days:
 - date: "2023-04-26"
   invoice: 7
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Move cdi5 into flame vpc.
+    task_time: 2h
   - task: infrastructure
     minutia: |
-      Fiddle with launch templates to fetch secrets from ssm parameter store.
+      Fiddle with launch templates to fetch secrets from ssm parameter
+      store.
     task_time: 1h
   - task: win sbx spectra installer
     minutia: |
