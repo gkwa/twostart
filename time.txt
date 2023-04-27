@@ -29,15 +29,15 @@ days:
   tasks:
   - task: sbx bridge for aws
     minutia: |
-      Move cdi5 into flame vpc.
+      Move cdi5 into flame vpc from Skype.
     task_time: 2h
   - task: infrastructure
     minutia: |
       Fiddle with launch templates to fetch secrets from ssm parameter
-      store.
-      Create client to fetch metadata and push to sns for watchdog to
-      fetch and start polling for volumes.
-    task_time: 5h
+      store. Create client to fetch metadata and push to sns for
+      watchdog to fetch and start polling for volumes from
+      https://basecamp.com/2498935/projects/14036660/todos/476669832#comment_893504257.
+    task_time: 6h
   - task: win sbx spectra installer
     minutia: |
       Rebuild windows installer from
