@@ -27,6 +27,10 @@ days:
 - date: "2023-04-28"
   invoice: 7
   tasks:
+  - task: infrastructure
+    minutia: |
+      Replace flame2 with rockyresolve from Skype.
+    task_time: 40m
   - task: win sbx spectra installer
     minutia: |
       Rebuild windows installer from
