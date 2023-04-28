@@ -27,9 +27,14 @@ days:
 - date: "2023-04-28"
   invoice: 7
   tasks:
+  - task: sbx live
+    minutia: |
+      Resize all live volumes to reduce wasted storage.
+    task_time: 2h30m
   - task: infrastructure
     minutia: |
-      Replace flame2 with rockyresolve from Skype.
+      Replace flame2 with rockyresolve from Skype. Instance needs GPU
+      so c5n.9xlarge was not sufficent.
     task_time: 40m
   - task: win sbx spectra installer
     minutia: |
