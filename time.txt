@@ -27,6 +27,11 @@ days:
 - date: "2023-04-28"
   invoice: 7
   tasks:
+  - task: macos sbx spectra
+    minutia: |
+      Release new macos spectra build from
+      https://basecamp.com/2498935/projects/17265419/todos/478534318#comment_893704276.
+    task_time: 10m
   - task: sbx bridge for aws
     minutia: |
       Offer support on upgrade problem from
