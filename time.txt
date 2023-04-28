@@ -34,6 +34,11 @@ days:
     task_time: 10m
   - task: sbx bridge for aws
     minutia: |
+      Retest install.sh after fixing this
+      https://basecamp.com/2498935/projects/17265419/todos/478571538#comment_893769104.
+    task_time: 1h
+  - task: sbx bridge for aws
+    minutia: |
       Offer support on upgrade problem from
       https://basecamp.com/2498935/projects/17265419/todos/478571538.
     task_time: 30m
