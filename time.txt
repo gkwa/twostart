@@ -1,6 +1,6 @@
 invoices:
 - number: 7
-  submitted_on: null
+  submitted_on: "2023-05-01"
   paid_on: null
 - number: 6
   submitted_on: "2023-04-17"
@@ -24,7 +24,7 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
-- date: "2023-05-30"
+- date: "2023-04-30"
   invoice: 7
   tasks:
   - task: "infrastructure: ec2 spot watchdog"
