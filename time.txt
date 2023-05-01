@@ -24,6 +24,22 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-05-30"
+  invoice: 7
+  tasks:
+  - task: "infrastructure: ec2 snapshot watchdog"
+    minutia: |
+      Work on watchdog for ec2 snapshotting from
+      https://basecamp.com/2498935/projects/14036660/todos/476669832#comment_893504257.
+    task_time: 3h
+- date: "2023-04-29"
+  invoice: 7
+  tasks:
+  - task: "infrastructure: ec2 snapshot watchdog"
+    minutia: |
+      Work on watchdog for ec2 snapshotting from
+      https://basecamp.com/2498935/projects/14036660/todos/476669832#comment_893504257.
+    task_time: 2h
 - date: "2023-04-28"
   invoice: 7
   tasks:
@@ -68,7 +84,7 @@ days:
     minutia: |
       Move cdi5 into flame vpc from Skype.
     task_time: 2h
-  - task: infrastructure
+  - task: "infrastructure: ec2 snapshot watchdog"
     minutia: |
       Fiddle with launch templates to fetch secrets from ssm parameter
       store. Create client to fetch metadata and push to sns for
