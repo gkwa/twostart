@@ -1,4 +1,7 @@
 invoices:
+- number: 8
+  submitted_on: "2023-05-03"
+  paid_on: null
 - number: 7
   submitted_on: "2023-05-01"
   paid_on: null
@@ -24,6 +27,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-05-03"
+  invoice: 8
+  tasks:
+  - task: infrastructure
+    minutia: |
+      Shutdown co3, disable pushover alerts from
+      https://basecamp.com/2498935/projects/15009229/todos/478714868.
+    task_time: 3h
 - date: "2023-04-30"
   invoice: 7
   tasks:
