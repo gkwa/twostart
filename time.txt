@@ -1,6 +1,6 @@
 invoices:
 - number: 8
-  submitted_on: "2023-05-03"
+  submitted_on: null
   paid_on: null
 - number: 7
   submitted_on: "2023-05-01"
