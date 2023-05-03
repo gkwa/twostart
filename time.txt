@@ -30,6 +30,13 @@ days:
 - date: "2023-05-03"
   invoice: 8
   tasks:
+  - task: sbx live
+    minutia: |
+      Finish resizing all live volumes to reduce wasted storage.
+    task_time: 1h
+- date: "2023-05-02"
+  invoice: 8
+  tasks:
   - task: infrastructure
     minutia: |
       Shutdown co3, disable pushover alerts from
