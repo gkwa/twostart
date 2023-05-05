@@ -27,6 +27,13 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-05-05"
+  invoice: 8
+  tasks:
+  - task: sbx live
+    minutia: |
+      Delete old aws volumes and snapshots.
+    task_time: 1h
 - date: "2023-05-03"
   invoice: 8
   tasks:
