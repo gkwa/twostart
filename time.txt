@@ -30,6 +30,16 @@ days:
 - date: "2023-05-05"
   invoice: 8
   tasks:
+  - task: "infrastructure: ec2 spot watchdog"
+    minutia: |
+      Work on watchdog for ec2 spot watchdog from
+      https://basecamp.com/2498935/projects/14036660/todos/476669832#comment_893504257.
+    task_time: 2h
+  - task: sbx bridge on flame
+    minutia: |
+      Update installers from
+      https://basecamp.com/2498935/projects/17265419/todos/478867998#comment_894504688.
+    task_time: 15m
   - task: sbx live
     minutia: |
       Delete old aws volumes and snapshots.
