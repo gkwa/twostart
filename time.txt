@@ -11,8 +11,10 @@ invoices:
 - number: 5
   submitted_on: "2023-03-31"
   paid_on: null
+  payout_extension_date: "2023-05-17"
   note: |
-    payout deadline extended to 2023-05-17
+    First extension was till 2023-05-05. Now, we're on second
+    extension 2023-05-17.
 - number: 4
   submitted_on: "2023-03-15"
   paid_on: "2023-04-24"
