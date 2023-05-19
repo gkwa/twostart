@@ -34,6 +34,20 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-05-18"
+  invoice: 9
+  tasks:
+  - task: sbx bridge on flame
+    minutia: |
+      Finalize bridge for v3 update from
+      https://basecamp.com/2498935/projects/17265419/todos/478576963#comment_895773146.
+    task_time: 3h
+  - task: win sbx media player installer
+    minutia: |
+      Further investigate whats needed to appease microsoft edge for
+      windows mp install from
+      https://basecamp.com/2498935/projects/11886956/todos/479479375.
+    task_time: 2h
 - date: "2023-05-17"
   invoice: 9
   tasks:
