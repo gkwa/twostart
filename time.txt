@@ -10,14 +10,14 @@ invoices:
   paid_on: null
 - number: 6
   submitted_on: "2023-04-17"
-  paid_on: null
+  paid_on: "2023-05-22"
 - number: 5
   submitted_on: "2023-03-31"
-  paid_on: null
+  paid_on: "2023-05-22"
   payout_extension_date: "2023-05-17"
   note: |
     First extension was till 2023-05-05. Now, we're on second
-    extension 2023-05-17.
+    extension 2023-05-17.  Paid out on "2023-05-22".
 - number: 4
   submitted_on: "2023-03-15"
   paid_on: "2023-04-24"
