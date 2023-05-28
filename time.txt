@@ -34,6 +34,11 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-05-27"
+  invoice: 9
+  tasks:
+  - task: "infrastructure: disk space cleanup"
+    task_time: 2h
 - date: "2023-05-18"
   invoice: 9
   tasks:
