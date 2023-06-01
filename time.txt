@@ -40,6 +40,14 @@ days:
 - date: "2023-06-01"
   invoice: 10
   tasks:
+  - task: sbx bridge for aws
+    minutia: |
+      Offer support bridge upgrade from
+      https://basecamp.com/2498935/projects/4645512/todos/479662140#comment_897051526.
+    task_time: 20m
+- date: "2023-06-01"
+  invoice: 10
+  tasks:
   - task: win sbx media player installer
     minutia: |
       Rebuild installer for smp v1.25 from
