@@ -10,7 +10,7 @@ invoices:
   paid_on: null
 - number: 7
   submitted_on: "2023-05-01"
-  paid_on: null
+  paid_on: "2023-06-01"
 - number: 6
   submitted_on: "2023-04-17"
   paid_on: "2023-05-20"
