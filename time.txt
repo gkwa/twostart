@@ -37,6 +37,22 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-06-06"
+  invoice: 10
+  tasks:
+  - task: "infrastructure: live security scan"
+    minutia: |
+      Installed the qualys client on au from
+      https://basecamp.com/2498935/projects/5361184/todos/433254105#comment_897505849.
+
+      Initiated a web scan there, but there are many params so not
+      sure how deep we should go on that.
+    task_time: 1h30m
+  - task: "infrastructure: live security scan"
+    minutia: |
+      Create new qualys account for live* scan from
+      https://basecamp.com/2498935/projects/5361184/todos/433254105#comment_897478695.
+    task_time: 30m
 - date: "2023-06-03"
   invoice: 10
   tasks:
