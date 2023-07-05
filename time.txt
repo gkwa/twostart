@@ -5,6 +5,7 @@ invoices:
 - number: 9
   submitted_on: "2023-05-31"
   paid_on: null
+  override_payout_due_date: "2023-07-17"
 - number: 8
   submitted_on: "2023-05-16"
   paid_on: "2023-06-22"
@@ -20,7 +21,7 @@ invoices:
   payout_extension_date: "2023-05-17"
   note: |
     First extension was till 2023-05-05. Now, we're on second
-    extension 2023-05-17.  Paid out on "2023-05-22".
+    extension 2023-05-17.  Paid out on 2023-05-22.
 - number: 4
   submitted_on: "2023-03-15"
   paid_on: "2023-04-24"
