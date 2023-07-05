@@ -1,4 +1,7 @@
 invoices:
+- number: 11
+  submitted_on: null
+  paid_on: null
 - number: 10
   submitted_on: "2023-06-16"
   paid_on: "2023-06-22"
@@ -38,6 +41,22 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-05"
+  invoice: 11
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Plan for new hash folder for iris and spectra
+      from https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_900244113.
+    task_time: 1h
+- date: "2023-07-05"
+  invoice: 11
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Build new installer
+      from https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_900244113.
+    task_time: 10m
 - date: "2023-06-09"
   invoice: 10
   tasks:
