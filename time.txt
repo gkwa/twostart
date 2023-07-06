@@ -9,6 +9,10 @@ invoices:
   submitted_on: "2023-05-31"
   paid_on: null
   override_payout_due_date: "2023-07-17"
+  note: |
+    Override payout due date because invoice 10 was paid early--namely
+    at invoice 9's due date so we're swapping invoice 9 payout due
+    date with invoice 10's payout due date.
 - number: 8
   submitted_on: "2023-05-16"
   paid_on: "2023-06-22"
@@ -41,6 +45,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-06"
+  invoice: 11
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      More discussing activaiton for spectra/iris from
+      from https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_900244113.
+    task_time: 1h
 - date: "2023-07-05"
   invoice: 11
   tasks:
