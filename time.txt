@@ -48,7 +48,7 @@ days:
 - date: "2023-07-07"
   invoice: 11
   tasks:
-  - task: slslight
+  - task: lightserver
     minutia: |
       Iterating on ansible/slslight from
       https://basecamp.com/2498935/projects/18566065/todos/481255186.
@@ -56,7 +56,7 @@ days:
 - date: "2023-07-06"
   invoice: 11
   tasks:
-  - task: slslight
+  - task: lightserver
     minutia: |
       Setup test env and start iterating to copy from tl3 to new
       instance with ansible from
@@ -829,7 +829,7 @@ days:
       Fix iris installer from
       https://basecamp.com/2498935/projects/17971091/todos/475958377#comment_889277502.
     task_time: 3h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Add workaround for broker vs sbroker from
       https://basecamp.com/2498935/projects/18566065/todos/476115610#comment_889272330.
@@ -837,11 +837,11 @@ days:
 - date: "2023-03-14"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Test send/pull with alex and update reboot host types.
     task_time: 2h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Setup send/pull test again, this time for dave and alex to test.
     task_time: 1h
@@ -852,7 +852,7 @@ days:
       https://basecamp.com/2498935/projects/18566065/todos/476103507#comment_889079501
       https://basecamp.com/2498935/projects/18566065/todos/475923259#comment_889079800
     task_time: 1h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Shutdown overnight test. Close open bugs from
       https://basecamp.com/2498935/projects/18566065/todolists/65271271
@@ -861,7 +861,7 @@ days:
 - date: "2023-03-13"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Retest send/pull after sls v2.2.44 upgrade from
       https://basecamp.com/2498935/projects/18566065/todos/476115610#comment_888996340.
@@ -878,7 +878,7 @@ days:
       Contribute to AWS cost optimization conversation from
       https://basecamp.com/2498935/projects/14036660/todos/476278870#comment_888863965.
     task_time: 5m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Fight apache2 config permission denied error while accessing
       https://.../light/light_status.php after installing tls.
@@ -886,18 +886,18 @@ days:
 - date: "2023-03-11"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Fix 'dragtooth' after updates from SLS light v2.2.43 and broker
       v1.13 from
       https://basecamp.com/2498935/projects/18566065/todos/476115610#comment_888519165.
     task_time: 30m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       'dragtooth' v0.0.22 now parses port ranges from light_status.php
       so it correctly determines whether sls port is already in use.
     task_time: 30m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Setup TLS for tl3 and broker from
       https://basecamp.com/2498935/projects/18566065/todos/476270863#comment_888816959.
@@ -909,7 +909,7 @@ days:
 - date: "2023-03-10"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Step through upgrading broker from devbroker.
     task_time: 3h
@@ -917,7 +917,7 @@ days:
     minutia: |
       https://basecamp.com/2498935/projects/17971091/todos/475958377#comment_888825228.
     task_time: 1h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Retest send/pull for tl3 after upgrading broker.
     task_time: 6h
@@ -933,7 +933,7 @@ days:
       New build
       https://basecamp.com/2498935/projects/17265419/todos/475958769#comment_888725638.
     task_time: 10m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       More attempts to get pulltest to work from
       https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_888710144.
@@ -970,13 +970,13 @@ days:
       More of helping CNN with activation from
       https://basecamp.com/2498935/projects/4707554/messages/103851661.
     task_time: 45m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Flailing on
       https://basecamp.com/2498935/projects/18566065/todos/461737115.
       Ugh, what a time suck...annoyed.
     task_time: 2h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Search for how to reduce bandwidth pricing while testing
       streaming to tl3 from
@@ -984,14 +984,14 @@ days:
       and from
       https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_888503833.
     task_time: 1h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Snapshot broker to broker2.
     task_time: 1h
 - date: "2023-03-07"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Finish 'dragtooth' and then started testing, but got stuck in only
       seeing one pair from
@@ -1021,7 +1021,7 @@ days:
     minutia: |
       https://basecamp.com/2498935/projects/17971091/todos/475558029#comment_888297465
     task_time: 10m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Improve 'dragtooth' to parse used ports to prevent colliding with
       another person from
@@ -1052,7 +1052,7 @@ days:
       builds from
       https://basecamp.com/2498935/projects/17265419/todos/475058127#comment_888148512
     task_time: 10m
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Refactor 'dragtooth' sls test app and test server further
       https://basecamp.com/2498935/projects/18566065/todos/475923259#comment_888149640
@@ -1060,12 +1060,12 @@ days:
 - date: "2023-03-04"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Learn how to instruct kubernetes node to pull private container
       image from amazon ecr.
     task_time: 1h
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Fiddle with tl3, create 'dragtooth' package to create session ids on tl3.
       Learn how to send a stream to tl3/tl4.
@@ -1086,7 +1086,7 @@ days:
 - date: "2023-03-02"
   invoice: 4
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Learn more how to setup kubernetes on ec2 in order to stress
       test sls setup on ec2 from
@@ -1216,7 +1216,7 @@ days:
 - date: "2023-02-22"
   invoice: 3
   tasks:
-  - task: sbx live v2
+  - task: lightserver
     minutia: |
       Light server testing.
       Discussing plans from https://basecamp.com/2498935/projects/18566065/todos/461737115#comment_887061207.
