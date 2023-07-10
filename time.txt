@@ -50,7 +50,7 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      Iterating on ansible/slslight from
+      Iterating on ansible/lightserver from
       https://basecamp.com/2498935/projects/18566065/todos/481255186.
     task_time: 5h
 - date: "2023-07-08"
@@ -58,7 +58,7 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      Iterating on ansible/slslight from
+      Iterating on ansible/lightserver from
       https://basecamp.com/2498935/projects/18566065/todos/481255186.
     task_time: 5h
 - date: "2023-07-07"
@@ -66,7 +66,7 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      Iterating on ansible/slslight from
+      Iterating on ansible/lightserver from
       https://basecamp.com/2498935/projects/18566065/todos/481255186.
     task_time: 4h
 - date: "2023-07-06"
