@@ -51,7 +51,9 @@ days:
   - task: lightserver
     minutia: |
       Iterating on ansible/lightserver from
-      https://basecamp.com/2498935/projects/18566065/todos/481255186#comment_900765705.
+      https://basecamp.com/2498935/projects/18566065/todos/481255186#comment_900765705
+      and
+      https://basecamp.com/2498935/projects/18566065/todos/481255186#comment_900763572.
     task_time: 4h
 - date: "2023-07-09"
   invoice: 11
