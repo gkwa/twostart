@@ -45,6 +45,16 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-12"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Work with alexey and alex to debug activation prbolem with
+      allow_url_fopen from
+      https://basecamp.com/2498935/projects/18566065/todos/481255186#comment_900904881.
+      Create new northflier2 instance for alex.
+    task_time: 2h
 - date: "2023-07-11"
   invoice: 11
   tasks:
