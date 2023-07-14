@@ -45,6 +45,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-13"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Work with alex to debug activation prbolems. Create more hosts
+      northflier1,2,3 for debug.
+    task_time: 8h
 - date: "2023-07-12"
   invoice: 11
   tasks:
