@@ -50,8 +50,8 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      Work with alex to debug activation prbolems. Create more hosts
-      northflier1,2,3 for debug.
+      Work with alex to debug activation problems. Discussion on
+      WhatsApp. Create more hosts northflier1,2,3 for debug.
     task_time: 8h
 - date: "2023-07-12"
   invoice: 11
