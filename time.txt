@@ -50,7 +50,8 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      More ansible config...this time to add ssl certs.
+      More terraform and ansible to automate lightserver. Add ansible
+      to deploy ssl certs.
     task_time: 6h
 - date: "2023-07-13"
   invoice: 11
