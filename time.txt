@@ -45,6 +45,20 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-16"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb and ansible.
+    task_time: 5h
+- date: "2023-07-15"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Learn how to manage secrets.
+    task_time: 6h
 - date: "2023-07-14"
   invoice: 11
   tasks:
