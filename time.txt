@@ -50,22 +50,23 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      Iterate on deb and ansible.
+      Iterate on deb and ansible/lightserver.
     task_time: 5h
 - date: "2023-07-15"
   invoice: 11
   tasks:
   - task: lightserver
     minutia: |
-      Learn how to manage secrets.
+      Video document creating/managing secrets for nortflier (from
+      Video-20230715_191459-Meeting Recording.mp4).
     task_time: 6h
 - date: "2023-07-14"
   invoice: 11
   tasks:
   - task: lightserver
     minutia: |
-      More terraform and ansible to automate lightserver. Add ansible
-      to deploy ssl certs.
+      More terraform and ansible/lightserver. Add ansible to deploy
+      ssl certs.
     task_time: 6h
 - date: "2023-07-13"
   invoice: 11
