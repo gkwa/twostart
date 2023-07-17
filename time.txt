@@ -45,6 +45,15 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-17"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb and ansible/lightserver. Work with alex and
+      alexey to create new northfliers to test HTTPS and add missing
+      files from 'the-newest-branch' gitlab branch.
+    task_time: 4h
 - date: "2023-07-16"
   invoice: 11
   tasks:
