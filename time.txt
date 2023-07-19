@@ -45,6 +45,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-19"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterating on deb file and debugging session error in php log
+      https://basecamp.com/2498935/projects/18566065/todos/482165763#comment_901735045.
+    task_time: 8h
 - date: "2023-07-18"
   invoice: 11
   tasks:
