@@ -50,7 +50,7 @@ days:
   tasks:
   - task: lightserver
     minutia: |
-      Iterate on deb installers. Bicker with alex.
+      Iterate on deb installers. Bicker with alex on skype.
     task_time: 6h
 - date: "2023-07-19"
   invoice: 11
