@@ -45,6 +45,13 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-20"
+  invoice: 11
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb installers. Bicker with alex.
+    task_time: 6h
 - date: "2023-07-19"
   invoice: 11
   tasks:
