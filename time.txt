@@ -48,6 +48,46 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-07-28"
+  invoice: 12
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb installers. Deliverable is here
+      https://basecamp.com/2498935/projects/18566065/todos/481890894#comment_902721288.
+    task_time: 8h
+- date: "2023-07-27"
+  invoice: 12
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb installers. Deliverable is here
+      https://basecamp.com/2498935/projects/18566065/todos/481890894#comment_902721288.
+    task_time: 8h
+- date: "2023-07-26"
+  invoice: 12
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb installers. Deliverable is here
+      https://basecamp.com/2498935/projects/18566065/todos/481890894#comment_902721288.
+    task_time: 8h
+- date: "2023-07-25"
+  invoice: 12
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb installers. Deliverable is here
+      https://basecamp.com/2498935/projects/18566065/todos/481890894#comment_902721288.
+    task_time: 8h
+- date: "2023-07-24"
+  invoice: 12
+  tasks:
+  - task: lightserver
+    minutia: |
+      Iterate on deb installers. Deliverable is here
+      https://basecamp.com/2498935/projects/18566065/todos/481890894#comment_902721288.
+    task_time: 8h
 - date: "2023-07-20"
   invoice: 12
   tasks:
