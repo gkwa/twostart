@@ -1,4 +1,7 @@
 invoices:
+- number: 13
+  submitted_on: null
+  paid_on: null
 - number: 12
   submitted_on: null
   paid_on: null
@@ -48,6 +51,18 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-08-1"
+  invoice: 13
+  tasks:
+  - task: lightserver
+    minutia: |
+      Get --version working for install.sh, document pending todos
+      from
+      https://basecamp.com/2498935/projects/18566065/todos/482695111#comment_902885677,
+      https://basecamp.com/2498935/projects/18566065/todos/482681404#comment_902856734
+      and
+      https://gitlab.com/streambox/northflier/-/blob/master/README.md#warningsthings-that-suckneed-adjustments-to.
+    task_time: 4h
 - date: "2023-07-28"
   invoice: 12
   tasks:
