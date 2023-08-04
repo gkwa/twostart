@@ -51,6 +51,17 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-08-3"
+  invoice: 13
+  tasks:
+  - task: macos sbx spectra
+    minutia: |
+      Deploy new spectra build v1.7.5. It took a while to debug why
+      appveyor was failing from
+      https://ci.appveyor.com/project/TaylorMonacelli/spectra-installer-macos/builds/47711634.
+      The image name updated from macos to macos-monterey from
+      https://gitlab.com/mtm/spectra_installer_macos/-/compare/ef1cbe981a57cbf259ae0950ea2490fd1de4c961...6d3a27f0676d9d2828d6b2631aeb9067d78469dc.
+    task_time: 30m
 - date: "2023-08-1"
   invoice: 13
   tasks:
