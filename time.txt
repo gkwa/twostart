@@ -51,6 +51,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-08-6"
+  invoice: 13
+  tasks:
+  - task: lightserver
+    minutia: |
+      Setup lightserver for test in php v8.3alpha from
+      https://basecamp.com/2498935/projects/18566065/todos/482890134.
+    task_time: 2h
 - date: "2023-08-3"
   invoice: 13
   tasks:
