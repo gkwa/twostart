@@ -1,12 +1,14 @@
 invoices:
 - number: 13
-  submitted_on: null
+  submitted_on: "2023-08-16"
   paid_on: null
+  override_payout_due_date: "2023-10-16"
 - number: 12
-  submitted_on: null
+  submitted_on: "2023-08-16"
   paid_on: null
+  override_payout_due_date: "2023-09-29"
 - number: 11
-  submitted_on: null
+  submitted_on: "2023-08-16"
   paid_on: null
 - number: 10
   submitted_on: "2023-06-16"
@@ -40,7 +42,7 @@ invoices:
   paid_on: "2023-04-24"
   note: |
     check was returned on 2023-04-19
-    direct deposit was then resubmitted and cleard on 4/24
+    direct deposit was then resubmitted and cleared on 4/24
 - number: 3
   submitted_on: "2023-03-01"
   paid_on: "2023-03-31"
@@ -54,9 +56,14 @@ days:
 - date: "2023-08-15"
   invoice: 13
   tasks:
-  - task: "infrastructure: fix certbot tls renewal"
+  - task: "infrastructure: fix certbot TLS renewal"
     minutia: |
-      Discussion with alex on skype tls rewal for broker.
+      Discussion with alex on skype TLS renewal for broker.
+    task_time: 1h
+  - task: "infrastructure: fix certbot TLS renewal"
+    minutia: |
+      Fix remaining hosts from
+      https://basecamp.com/2498935/projects/4658296/todos/483315299.
     task_time: 1h
 - date: "2023-08-9"
   invoice: 13
@@ -1087,7 +1094,7 @@ days:
   - task: lightserver
     minutia: |
       Fight apache2 config permission denied error while accessing
-      https://.../light/light_status.php after installing tls.
+      https://.../light/light_status.php after installing TLS.
     task_time: 2h
 - date: "2023-03-11"
   invoice: 4
@@ -1603,3 +1610,5 @@ days:
   tasks:
   - task: retainer
     task_time: 20h
+
+LocalWords:  TLS
