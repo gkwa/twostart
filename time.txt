@@ -1610,5 +1610,3 @@ days:
   tasks:
   - task: retainer
     task_time: 20h
-
-LocalWords:  TLS
