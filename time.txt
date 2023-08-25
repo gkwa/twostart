@@ -62,7 +62,7 @@ days:
   - task: lightserver
     minutia: |
       Document ssl cert install for lightserver using godaddy certs.
-    task_time: 1h
+    task_time: 6h
   - task: "infrastructure: fix reboot server"
     minutia: |
       Disable protectedapp test site now that ssl cert for test site
