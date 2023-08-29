@@ -56,6 +56,20 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-08-29"
+  invoice: 14
+  tasks:
+  - task: lightserver
+    minutia: |
+      Adjust file paths for config.php and rebuild installer.
+    task_time: 2.5h
+- date: "2023-08-28"
+  invoice: 14
+  tasks:
+  - task: lightserver
+    minutia: |
+      Consume alexey's updates and rebuild installer.
+    task_time: 1.5h
 - date: "2023-08-25"
   invoice: 14
   tasks:
