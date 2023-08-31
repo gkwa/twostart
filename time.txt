@@ -4,15 +4,15 @@ invoices:
   paid_on: null
 - number: 13
   submitted_on: "2023-08-16"
-  paid_on: null
+  paid_on: "2023-08-31"
   override_payout_due_date: "2023-10-16"
 - number: 12
   submitted_on: "2023-08-16"
-  paid_on: null
+  paid_on: "2023-08-31"
   override_payout_due_date: "2023-09-29"
 - number: 11
   submitted_on: "2023-08-16"
-  paid_on: null
+  paid_on: "2023-08-31"
 - number: 10
   submitted_on: "2023-06-16"
   paid_on: "2023-06-22"
