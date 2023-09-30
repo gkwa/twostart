@@ -1,4 +1,7 @@
 invoices:
+- number: 16
+  submitted_on: null
+  paid_on: null
 - number: 15
   submitted_on: null
   paid_on: null
@@ -59,6 +62,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-09-29"
+  invoice: 16
+  tasks:
+  - task: macos sbx spectra
+    minutia: |
+      Deploy new spectra build v1.7.9 from
+      https://basecamp.com/2498935/projects/4645512/todos/484606804#comment_908598752.
+    task_time: 15m
 - date: "2023-09-05"
   invoice: 15
   tasks:
