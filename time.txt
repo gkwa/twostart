@@ -1,4 +1,7 @@
 invoices:
+- number: 17
+  submitted_on: null
+  paid_on: null
 - number: 16
   submitted_on: null
   paid_on: null
@@ -62,6 +65,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2023-10-03"
+  invoice: 17
+  tasks:
+  - task: "infrastructure: security scan"
+    minutia: |
+      Setup for chroma security scan
+      https://basecamp.com/2498935/projects/13508484/todos/485439493#comment_908982801.
+    task_time: 30m
 - date: "2023-09-29"
   invoice: 16
   tasks:
