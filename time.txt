@@ -1,4 +1,7 @@
 invoices:
+- number: 22
+  submitted_on: null
+  paid_on: null
 - number: 21
   submitted_on: null
   paid_on: null
@@ -77,6 +80,13 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2024-01-16"
+  invoice: 22
+  tasks:
+  - task: sbx live
+    minutia: |
+      Skype discussion: alex initiates discussion about updated lightserver.
+    task_time: 20m
 - date: "2023-12-01"
   invoice: 21
   tasks:
