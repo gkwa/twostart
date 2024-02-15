@@ -1372,7 +1372,7 @@ days:
     minutia: |
       Attempt replication of https://basecamp.com/2498935/projects/4707554/messages/103851661#comment_888409872.
     task_time: 30m
-  - task: win sbx spectra
+  - task: win sbx spectra installer
     minutia: |
       Consider how spectra could be improved
       https://basecamp.com/2498935/projects/17265419/todos/475218671#comment_888356211.
