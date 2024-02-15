@@ -91,6 +91,11 @@ days:
       Build new installer from
       https://basecamp.com/2498935/projects/17265419/todos/491303536#comment_919790585.
     task_time: 2h
+  - task: win sbx spectra installer
+    minutia: |
+      Make script to sign SpectraASIO from
+      https://basecamp.com/2498935/projects/17265419/todos/491303536#comment_919790585.
+    task_time: 2h
 - date: "2024-01-16"
   invoice: 22
   tasks:
