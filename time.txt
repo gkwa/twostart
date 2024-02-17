@@ -83,6 +83,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2024-02-17"
+  invoice: 23
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Update spectra for win from
+      https://basecamp.com/2498935/projects/17265419/todos/491303536#comment_920011811.
+    task_time: 50m
 - date: "2024-02-16"
   invoice: 23
   tasks:
