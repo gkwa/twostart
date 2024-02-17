@@ -88,6 +88,12 @@ days:
   tasks:
   - task: lightserver
     minutia: |
+      Manually update tl5 and tl3 to reflect gitlab at commit: cba4ebe
+      from
+      https://basecamp.com/2498935/projects/18566065/todos/488929894#comment_920007997.
+    task_time: 2h
+  - task: lightserver
+    minutia: |
       Redo db_log path fix from
       https://basecamp.com/2498935/projects/18566065/todos/488929894#comment_920007389.
     task_time: 3h
