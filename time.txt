@@ -88,6 +88,11 @@ days:
   tasks:
   - task: lightserver
     minutia: |
+      Redo db_log path fix from
+      https://basecamp.com/2498935/projects/18566065/todos/488929894#comment_920007389.
+    task_time: 3h
+  - task: lightserver
+    minutia: |
       Redo db_path fix and email alexey from
       https://basecamp.com/2498935/projects/18566065/todos/488929894#comment_919947482.
     task_time: 1.5h
