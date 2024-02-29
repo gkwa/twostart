@@ -83,6 +83,16 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2024-02-28"
+  invoice: 23
+  tasks:
+  - task: infrastructure
+    minutia: |
+      Skype with alex about deploying vendor files to production and
+      basecamp with louis about upgrading spectra installer to latest
+      from
+      https://basecamp.com/2498935/projects/17265419/todos/490736111#comment_920905094.
+    task_time: 20m
 - date: "2024-02-26"
   invoice: 23
   tasks:
