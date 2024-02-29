@@ -1,31 +1,4 @@
 invoices:
-- number: 23
-  submitted_on: null
-  paid_on: null
-- number: 22
-  submitted_on: null
-  paid_on: null
-- number: 21
-  submitted_on: null
-  paid_on: null
-- number: 20
-  submitted_on: null
-  paid_on: null
-- number: 19
-  submitted_on: null
-  paid_on: null
-- number: 18
-  submitted_on: null
-  paid_on: null
-- number: 17
-  submitted_on: null
-  paid_on: null
-- number: 16
-  submitted_on: null
-  paid_on: null
-- number: 15
-  submitted_on: null
-  paid_on: null
 - number: 14
   submitted_on: null
   paid_on: null
@@ -84,7 +57,7 @@ invoices:
   paid_on: "2023-02-16"
 days:
 - date: "2024-02-28"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: infrastructure
     minutia: |
@@ -94,7 +67,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/490736111#comment_920905094.
     task_time: 20m
 - date: "2024-02-26"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -102,7 +75,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/490736111#comment_920607300.
     task_time: 10m
 - date: "2024-02-18"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -110,7 +83,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/491303536#comment_920020094.
     task_time: 10m
 - date: "2024-02-17"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -118,7 +91,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/491303536#comment_920011811.
     task_time: 50m
 - date: "2024-02-16"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: lightserver
     minutia: |
@@ -137,7 +110,7 @@ days:
       https://basecamp.com/2498935/projects/18566065/todos/488929894#comment_919947482.
     task_time: 1.5h
 - date: "2024-02-15"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: lightserver
     minutia: |
@@ -146,7 +119,7 @@ days:
       Discussion on skype with alex.
     task_time: 6h
 - date: "2024-02-14"
-  invoice: 23
+  invoice: 14
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -159,14 +132,14 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/491303536#comment_919790585.
     task_time: 2h
 - date: "2024-01-16"
-  invoice: 22
+  invoice: 14
   tasks:
   - task: sbx live
     minutia: |
       Skype discussion: alex initiates discussion about updated lightserver.
     task_time: 20m
 - date: "2023-12-01"
-  invoice: 21
+  invoice: 14
   tasks:
   - task: sbx live
     minutia: |
@@ -174,7 +147,7 @@ days:
       https://basecamp.com/2498935/projects/18743399/todos/481974750#events_todo_481974750.
     task_time: 30m
 - date: "2023-11-24"
-  invoice: 20
+  invoice: 14
   tasks:
   - task: win sbx spectra installer
     minutia: |
@@ -182,7 +155,7 @@ days:
       https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_913470047.
     task_time: 30m
 - date: "2023-10-31"
-  invoice: 19
+  invoice: 14
   tasks:
   - task: lightserver
     minutia: |
@@ -190,7 +163,7 @@ days:
       to fetch php logs.
     task_time: 10m
 - date: "2023-10-17"
-  invoice: 18
+  invoice: 14
   tasks:
   - task: "infrastructure: add host to reboot server"
     minutia: |
@@ -198,7 +171,7 @@ days:
       us-est-1 host.
     task_time: 10m
 - date: "2023-10-03"
-  invoice: 17
+  invoice: 14
   tasks:
   - task: "infrastructure: security scan"
     minutia: |
@@ -206,7 +179,7 @@ days:
       https://basecamp.com/2498935/projects/13508484/todos/485439493#comment_908982801.
     task_time: 30m
 - date: "2023-09-29"
-  invoice: 16
+  invoice: 14
   tasks:
   - task: macos sbx spectra
     minutia: |
@@ -214,7 +187,7 @@ days:
       https://basecamp.com/2498935/projects/4645512/todos/484606804#comment_908598752.
     task_time: 15m
 - date: "2023-09-05"
-  invoice: 15
+  invoice: 14
   tasks:
   - task: lightserver
     minutia: |
@@ -226,7 +199,7 @@ days:
       https://basecamp.com/2498935/projects/18566065/todos/484173666#comment_906120728.
     task_time: 30m
 - date: "2023-09-01"
-  invoice: 15
+  invoice: 14
   tasks:
   - task: win sbx spectra installer
     minutia: |
