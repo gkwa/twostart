@@ -1,4 +1,7 @@
 invoices:
+- number: 15
+  submitted_on: 
+  paid_on: null
 - number: 14
   submitted_on: "2024-02-29"
   paid_on: null
@@ -57,6 +60,14 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2024-03-01"
+  invoice: 15
+  tasks:
+  - task: win sbx spectra installer
+    minutia: |
+      Rebuild spectra installer for
+      https://basecamp.com/2498935/projects/17265419/todos/449348526#comment_921071990.
+    task_time: 10m
 - date: "2024-02-28"
   invoice: 14
   tasks:
