@@ -1,4 +1,7 @@
 invoices:
+- number: 16
+  submitted_on: 
+  paid_on: null
 - number: 15
   submitted_on: 
   paid_on: null
@@ -60,6 +63,15 @@ invoices:
   submitted_on: "2023-02-07"
   paid_on: "2023-02-16"
 days:
+- date: "2024-03-14"
+  invoice: 16
+  tasks:
+  - task: lightserver
+    minutia: |
+      Learn php/ubuntu version permutations so that installer works
+      with as little friction as possible. Motivation from
+      https://basecamp.com/2498935/projects/18566065/todolists/69405609#comment_922038989.
+    task_time: 2h
 - date: "2024-03-01"
   invoice: 15
   tasks:
